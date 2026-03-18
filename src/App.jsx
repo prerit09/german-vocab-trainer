@@ -32,6 +32,7 @@ export default function App() {
       case "a1": return import.meta.env.BASE_URL + "data/a1-nouns.json";
       case "a2": return import.meta.env.BASE_URL + "data/a2-nouns.json";
       case "b1": return import.meta.env.BASE_URL + "data/b1-nouns.json";
+      case "b1ch1": return import.meta.env.BASE_URL + "data/b1-ch-1.json";
       default: throw new Error("Unknown level: " + level);
     }
   }
@@ -165,6 +166,7 @@ export default function App() {
               onChange={e => setLevel(e.target.value)}
               className="level-dropdown"
             >
+              <option value="b1ch1">B1 - Chapter - 1</option>
               <option value="a1">A1</option>
               <option value="a2">A2</option>
               <option value="b1">B1</option>

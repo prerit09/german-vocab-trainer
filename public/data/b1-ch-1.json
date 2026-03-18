@@ -1,0 +1,634 @@
+[
+  {
+    "id": 1,
+    "noun": "Winterurlaub",
+    "article": "der",
+    "english": "winter vacation"
+  },
+  {
+    "id": 2,
+    "noun": "Skigebiet",
+    "article": "das",
+    "english": "ski area"
+  },
+  {
+    "id": 3,
+    "noun": "(Ski-)Lift",
+    "article": "der",
+    "english": "(ski) lift"
+  },
+  {
+    "id": 4,
+    "noun": "Strandurlaub",
+    "article": "der",
+    "english": "beach holiday"
+  },
+  {
+    "id": 5,
+    "noun": "Küste",
+    "article": "die",
+    "english": "coast"
+  },
+  {
+    "id": 6,
+    "noun": "Sand",
+    "article": "der",
+    "english": "sand"
+  },
+  {
+    "id": 7,
+    "noun": "Strandpromenade",
+    "article": "die",
+    "english": "beach promenade"
+  },
+  {
+    "id": 8,
+    "noun": "Urlaubsgruß",
+    "article": "der",
+    "english": "holiday greeting"
+  },
+ {
+    "id": 9,
+    "noun": "Zeitpunkt",
+    "article": "der",
+    "english": "point of time"
+  },
+  {
+    "id": 10,
+    "noun": "Terminkalender",
+    "article": "der",
+    "english": "appointment calendar"
+  },
+  {
+    "id": 11,
+    "noun": "rechtzeitig",
+    "article": "",
+    "english": "timely"
+  },
+  {
+    "id": 12,
+    "noun": "gründlich",
+    "article": "",
+    "english": "thorough"
+  },
+  {
+    "id": 13,
+    "noun": "buchen",
+    "article": "",
+    "english": "to book"
+  },
+  {
+    "id": 14,
+    "noun": "sich entschließen",
+    "article": "",
+    "english": "to decide"
+  },
+  {
+    "id": 15,
+    "noun": "Halbpension",
+    "article": "die",
+    "english": "half board"
+  },
+  {
+    "id": 16,
+    "noun": "Vollpension",
+    "article": "die",
+    "english": "full board"
+  },
+  {
+    "id": 17,
+    "noun": "höchstens",
+    "article": "",
+    "english": "at most / mostly"
+  },
+  {
+    "id": 18,
+    "noun": "enthalten sein",
+    "article": "",
+    "english": "to be contained / included"
+  },
+  {
+    "id": 19,
+    "noun": "Kompromiss",
+    "article": "der",
+    "english": "compromise"
+  },
+  {
+    "id": 20,
+    "noun": "meinetwegen",
+    "article": "",
+    "english": "whatever!"
+  },
+  {
+    "id": 21,
+    "noun": "dabei sein",
+    "article": "",
+    "english": "to be there / enclosed"
+  },
+  {
+    "id": 22,
+    "noun": "Einfall",
+    "article": "der",
+    "english": "idea"
+  },
+  {
+    "id": 23,
+    "noun": "einpacken",
+    "article": "",
+    "english": "to pack"
+  },
+  {
+    "id": 24,
+    "noun": "auspacken",
+    "article": "",
+    "english": "to unpack"
+  },
+  {
+    "id": 25,
+    "noun": "Mitarbeiter",
+    "article": "der",
+    "english": "employee (male)"
+  },
+  {
+    "id": 26,
+    "noun": "Mitarbeiterin",
+    "article": "die",
+    "english": "employee (female)"
+  },
+  {
+    "id": 27,
+    "noun": "Ferienhaus",
+    "article": "das",
+    "english": "holiday house"
+  },
+  {
+    "id": 28,
+    "noun": "Wellnesshotel",
+    "article": "das",
+    "english": "wellness hotel / spa"
+  },
+  {
+    "id": 29,
+    "noun": "Hütte",
+    "article": "die",
+    "english": "hut"
+  },
+  {
+    "id": 30,
+    "noun": "Badewanne",
+    "article": "die",
+    "english": "bathtub"
+  },
+  {
+    "id": 31,
+    "noun": "im Freien übernachten",
+    "article": "",
+    "english": "to stay overnight in the open air"
+  },
+  {
+    "id": 32,
+    "noun": "zelten",
+    "article": "",
+    "english": "to camp"
+  },
+  {
+    "id": 33,
+    "noun": "aufbauen",
+    "article": "",
+    "english": "to set up / assemble"
+  },
+  {
+    "id": 34,
+    "noun": "Ausblick",
+    "article": "der",
+    "english": "outlook"
+  },
+  {
+    "id": 35,
+    "noun": "Aussicht",
+    "article": "die",
+    "english": "view / prospect"
+  },
+  {
+    "id": 36,
+    "noun": "herrlich",
+    "article": "",
+    "english": "superb / lovely"
+  },
+  {
+    "id": 37,
+    "noun": "schick",
+    "article": "",
+    "english": "fashionable"
+  },
+  {
+    "id": 38,
+    "noun": "Aufenthalt",
+    "article": "der",
+    "english": "stay"
+  },
+  {
+    "id": 39,
+    "noun": "vorbei sein",
+    "article": "",
+    "english": "to be over"
+  },
+  {
+    "id": 40,
+    "noun": "Urlaubsziel",
+    "article": "das",
+    "english": "holiday destination"
+  },
+  {
+    "id": 41,
+    "noun": "Entfernung",
+    "article": "die",
+    "english": "distance"
+  },
+  {
+    "id": 42,
+    "noun": "Fahrtzeit",
+    "article": "die",
+    "english": "travel time"
+  },
+  {
+    "id": 43,
+    "noun": "gegen",
+    "article": "",
+    "english": "around"
+  },
+  {
+    "id": 44,
+    "noun": "Hauptbahnhof",
+    "article": "der",
+    "english": "main railway station"
+  },
+  {
+    "id": 45,
+    "noun": "ICE",
+    "article": "der",
+    "english": "InterCity Express"
+  },
+  {
+    "id": 46,
+    "noun": "Kofferraum",
+    "article": "der",
+    "english": "trunk"
+  },
+  {
+    "id": 47,
+    "noun": "Schifffahrt",
+    "article": "die",
+    "english": "ship travel"
+  },
+  {
+    "id": 48,
+    "noun": "Boot",
+    "article": "das",
+    "english": "boat"
+  },
+    {
+    "id": 49,
+    "noun": "Alm",
+    "article": "die",
+    "english": "alp / mountain pasture"
+  },
+  {
+    "id": 50,
+    "noun": "Kuh",
+    "article": "die",
+    "english": "cow"
+  },
+  {
+    "id": 51,
+    "noun": "Wanderer",
+    "article": "der",
+    "english": "hiker"
+  },
+  {
+    "id": 52,
+    "noun": "Gebirge",
+    "article": "das",
+    "english": "mountains"
+  },
+  {
+    "id": 53,
+    "noun": "Himmel",
+    "article": "der",
+    "english": "sky"
+  },
+  {
+    "id": 54,
+    "noun": "Wiese",
+    "article": "die",
+    "english": "meadow"
+  },
+  {
+    "id": 55,
+    "noun": "Traube",
+    "article": "die",
+    "english": "grapes"
+  },
+  {
+    "id": 56,
+    "noun": "reif",
+    "article": "",
+    "english": "ripe"
+  },
+  {
+    "id": 57,
+    "noun": "brennen",
+    "article": "",
+    "english": "to burn"
+  },
+  {
+    "id": 58,
+    "noun": "Insekt",
+    "article": "das",
+    "english": "insect"
+  },
+  {
+    "id": 59,
+    "noun": "Schutz",
+    "article": "der",
+    "english": "protection"
+  },
+  {
+    "id": 60,
+    "noun": "Netz",
+    "article": "das",
+    "english": "net / network"
+  },
+  {
+    "id": 61,
+    "noun": "Einsamkeit",
+    "article": "die",
+    "english": "loneliness"
+  },
+  {
+    "id": 62,
+    "noun": "einsam",
+    "article": "",
+    "english": "lonely"
+  },
+  {
+    "id": 63,
+    "noun": "Empfang",
+    "article": "der",
+    "english": "reception"
+  },
+  {
+    "id": 64,
+    "noun": "weg sein",
+    "article": "",
+    "english": "to be away"
+  },
+  {
+    "id": 65,
+    "noun": "Heimweh",
+    "article": "das",
+    "english": "homesickness"
+  },
+  {
+    "id": 66,
+    "noun": "sich erkälten",
+    "article": "",
+    "english": "to catch cold"
+  },
+    {
+    "id": 67,
+    "noun": "Abenteuer",
+    "article": "das",
+    "english": "adventure"
+  },
+  {
+    "id": 68,
+    "noun": "Erlebnis",
+    "article": "das",
+    "english": "experience"
+  },
+  {
+    "id": 69,
+    "noun": "entspannend",
+    "article": "",
+    "english": "relaxing"
+  },
+  {
+    "id": 70,
+    "noun": "angenehm",
+    "article": "",
+    "english": "pleasant"
+  },
+  {
+    "id": 71,
+    "noun": "sich erholen",
+    "article": "",
+    "english": "to relax oneself"
+  },
+  {
+    "id": 72,
+    "noun": "faulenzen",
+    "article": "",
+    "english": "to laze around"
+  },
+  {
+    "id": 73,
+    "noun": "spazieren",
+    "article": "",
+    "english": "to walk"
+  },
+  {
+    "id": 74,
+    "noun": "Pilz",
+    "article": "der",
+    "english": "mushroom"
+  },
+  {
+    "id": 75,
+    "noun": "mitarbeiten",
+    "article": "",
+    "english": "to work along"
+  },
+  {
+    "id": 76,
+    "noun": "vorbeikommen",
+    "article": "",
+    "english": "to come by"
+  },
+  
+{
+    "id": 77,
+    "noun": "begeistert sein",
+    "article": "",
+    "english": "to be excited"
+  },
+  {
+    "id": 78,
+    "noun": "gut/schlecht gelaunt sein",
+    "article": "",
+    "english": "to be in a good/bad mood"
+  },
+  {
+    "id": 79,
+    "noun": "zufrieden sein",
+    "article": "",
+    "english": "to be satisfied"
+  },
+  {
+    "id": 80,
+    "noun": "genervt sein",
+    "article": "",
+    "english": "to be annoyed"
+  },
+  {
+    "id": 81,
+    "noun": "enttäuscht sein",
+    "article": "",
+    "english": "to be disappointed"
+  },
+  {
+    "id": 82,
+    "noun": "verzweifelt sein",
+    "article": "",
+    "english": "to be desperate / exasperated"
+  },
+    {
+    "id": 83,
+    "noun": "beinahe",
+    "article": "",
+    "english": "nearly / almost"
+  },
+  {
+    "id": 84,
+    "noun": "Ohren auf",
+    "article": "",
+    "english": "listen carefully / all ears"
+  },
+  {
+    "id": 85,
+    "noun": "drüben",
+    "article": "",
+    "english": "over there"
+  },
+  {
+    "id": 86,
+    "noun": "hierher",
+    "article": "",
+    "english": "this way / over here"
+  },
+  {
+    "id": 87,
+    "noun": "momentan",
+    "article": "",
+    "english": "currently"
+  },
+  {
+    "id": 88,
+    "noun": "eher",
+    "article": "",
+    "english": "rather / sooner"
+  },
+  {
+    "id": 89,
+    "noun": "jedenfalls",
+    "article": "",
+    "english": "anyhow / in any case"
+  },
+  {
+    "id": 90,
+    "noun": "circa",
+    "article": "",
+    "english": "approximately"
+  },
+  {
+    "id": 91,
+    "noun": "falls",
+    "article": "",
+    "english": "if / in case"
+  },
+  {
+    "id": 92,
+    "noun": "offenbar",
+    "article": "",
+    "english": "obviously / apparently"
+  },
+  {
+    "id": 93,
+    "noun": "Typ",
+    "article": "der",
+    "english": "guy"
+  },
+  {
+    "id": 94,
+    "noun": "Chat",
+    "article": "der",
+    "english": "chat"
+  },
+  {
+    "id": 95,
+    "noun": "erfahren",
+    "article": "",
+    "english": "to experience"
+  },
+  {
+    "id": 96,
+    "noun": "Neuigkeit",
+    "article": "die",
+    "english": "news"
+  },
+  {
+    "id": 97,
+    "noun": "Rückblick",
+    "article": "der",
+    "english": "flashback / review"
+  },
+  {
+    "id": 98,
+    "noun": "solche",
+    "article": "",
+    "english": "such"
+  },
+  {
+    "id": 99,
+    "noun": "tragen",
+    "article": "",
+    "english": "to carry / to wear"
+  },
+  {
+    "id": 100,
+    "noun": "vorne liegen",
+    "article": "",
+    "english": "to be in the lead"
+  },
+  {
+    "id": 101,
+    "noun": "wieso",
+    "article": "",
+    "english": "why"
+  },
+  {
+    "id": 102,
+    "noun": "Zeug",
+    "article": "das",
+    "english": "stuff / kit"
+  },
+  {
+    "id": 103,
+    "noun": "da",
+    "article": "",
+    "english": "because / there"
+  },
+  {
+    "id": 104,
+    "noun": "obwohl",
+    "article": "",
+    "english": "although"
+  },
+  {
+    "id": 105,
+    "noun": "zu",
+    "article": "",
+    "english": "to"
+  }
+
+]
