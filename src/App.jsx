@@ -326,11 +326,25 @@ export default function App() {
               </button>
             ))
           ) : (
-            <button style={styles.nextButton} onClick={nextWord}>
-              Next
-            </button>
+            <>
+              {!showEnglish ? (
+                <button
+                  style={styles.showEnglishButton}
+                  onClick={() => setShowEnglish(true)}
+                >
+                  Show English
+                </button>
+              ) : (
+                <p style={styles.h6}>{word.english}</p>
+              )}
+
+              <button style={styles.nextButton} onClick={nextWord}>
+                Next
+              </button>
+            </>
           )}
         </div>
+
         {word.article && selected && (
           <>
             <p style={styles.h6}>
