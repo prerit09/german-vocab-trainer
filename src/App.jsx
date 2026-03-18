@@ -276,7 +276,7 @@ export default function App() {
         <h2 style={styles.h2}>{mode === "quiz" ? "Quiz" : "Review"}</h2>
         <h1 style={styles.h1}>{word.noun}</h1>
 
-        <div style={styles.flexWrap}>
+        {/* <div style={styles.flexWrap}>
           {["der", "die", "das"].map(a => (
             <button
               key={a}
@@ -299,9 +299,61 @@ export default function App() {
               {a}
             </button>
           ))}
-        </div>
+        </div> */}
 
-        {selected && (
+        <div style={styles.flexWrap}>
+          {word.article ? (
+            ["der", "die", "das"].map(a => (
+              <button
+                key={a}
+                onClick={() => chooseArticle(a)}
+                style={{
+                  padding: "10px 16px",
+                  borderRadius: 8,
+                  border: "none",
+                  cursor: "pointer",
+                  fontSize: 16,
+                  background:
+                    selected === a
+                      ? a === word.article
+                        ? "#4caf50"
+                        : "#f44336"
+                      : "#eee",
+                  color: selected === a ? "#fff" : "#333",
+                }}
+              >
+                {a}
+              </button>
+            ))
+          ) : (
+            <button style={styles.nextButton} onClick={nextWord}>
+              Next
+            </button>
+          )}
+        </div>
+        {word.article && selected && (
+          <>
+            <p style={styles.h6}>
+              Correct: <strong>{word.article}</strong>
+            </p>
+
+            {!showEnglish ? (
+              <button
+                style={styles.showEnglishButton}
+                onClick={() => setShowEnglish(true)}
+              >
+                Show English
+              </button>
+            ) : (
+              <p style={styles.h6}>{word.english}</p>
+            )}
+
+            <button style={styles.nextButton} onClick={nextWord}>
+              Next
+            </button>
+          </>
+        )}
+        {/* {selected && (
           <>
             <p style={styles.h6}>Correct: <strong>{word.article}</strong></p>
             {!showEnglish ? (
@@ -311,7 +363,7 @@ export default function App() {
             )}
             <button style={styles.nextButton} onClick={nextWord}>Next</button>
           </>
-        )}
+        )} */}
       </div>
     </div>
   );
