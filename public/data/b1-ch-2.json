@@ -1,49 +1,49 @@
 [
 {
   "id": 1,
-  "word": "der Staubsauger",
+  "word": "Staubsauger",
   "article": "der",
   "english": "vacuum cleaner"
 },
 {
   "id": 2,
-  "word": "die Waschmaschine",
+  "word": "Waschmaschine",
   "article": "die",
   "english": "washing machine"
 },
 {
   "id": 3,
-  "word": "der Kopfhörer",
+  "word": "Kopfhörer",
   "article": "der",
   "english": "headphones"
 },
 {
   "id": 4,
-  "word": "die Powerbank",
+  "word": "Powerbank",
   "article": "die",
   "english": "power bank"
 },
 {
   "id": 5,
-  "word": "der USB-Stick",
+  "word": "USB-Stick",
   "article": "der",
   "english": "USB stick / pen drive"
 },
 {
   "id": 6,
-  "word": "der Knopf",
+  "word": "Knopf",
   "article": "der",
   "english": "button"
 },
 {
   "id": 7,
-  "word": "die Taste",
+  "word": "Taste",
   "article": "die",
   "english": "key / button"
 },
 {
   "id": 8,
-  "word": "der Monitor",
+  "word": "Monitor",
   "article": "der",
   "english": "monitor"
 },
@@ -61,7 +61,7 @@
 },
 {
   "id": 11,
-  "word": "das Ladekabel",
+  "word": "Ladekabel",
   "article": "das",
   "english": "charging cable"
 },
@@ -73,7 +73,7 @@
 },
 {
   "id": 13,
-  "word": "das Handyakku",
+  "word": "Handyakku",
   "article": "das",
   "english": "mobile battery / charging"
 },
@@ -133,13 +133,13 @@
 },
 {
   "id": 23,
-  "word": "die Garantie",
+  "word": "Garantie",
   "article": "die",
   "english": "guarantee"
 },
 {
   "id": 24,
-  "word": "die Quittung",
+  "word": "Quittung",
   "article": "die",
   "english": "receipt"
 },
@@ -175,13 +175,13 @@
 },
 {
   "id": 30,
-  "word": "die Anleitung",
+  "word": "Anleitung",
   "article": "die",
   "english": "instructions"
 },
 {
   "id": 31,
-  "word": "die Gebrauchsanweisung",
+  "word": "Gebrauchsanweisung",
   "article": "die",
   "english": "instruction manual"
 },
@@ -229,7 +229,7 @@
 },
 {
   "id": 39,
-  "word": "die Technologie",
+  "word": "Technologie",
   "article": "die",
   "english": "technology"
 },
@@ -247,19 +247,19 @@
 },
 {
   "id": 42,
-  "word": "die Alarmanlage",
+  "word": "Alarmanlage",
   "article": "die",
   "english": "alarm"
 },
 {
   "id": 43,
-  "word": "der Einbruch",
+  "word": "Einbruch",
   "article": "der",
   "english": "invasion / break-in"
 },
 {
   "id": 44,
-  "word": "die Gefahr",
+  "word": "Gefahr",
   "article": "die",
   "english": "danger"
 },
@@ -271,25 +271,25 @@
 },
 {
   "id": 46,
-  "word": "der Neubau",
+  "word": "Neubau",
   "article": "der",
   "english": "newly built"
 },
 {
   "id": 47,
-  "word": "die Haustür",
+  "word": "Haustür",
   "article": "die",
   "english": "house door / gate"
 },
 {
   "id": 48,
-  "word": "der Fingerabdruck",
+  "word": "Fingerabdruck",
   "article": "der",
   "english": "fingerprint"
 },
 {
   "id": 49,
-  "word": "der Sprachassistent",
+  "word": "Sprachassistent",
   "article": "der",
   "english": "language assistant"
 },
@@ -307,13 +307,13 @@
 },
 {
   "id": 52,
-  "word": "der Tagesablauf",
+  "word": "Tagesablauf",
   "article": "der",
   "english": "daily routine"
 },
 {
   "id": 53,
-  "word": "das Produkt",
+  "word": "Produkt",
   "article": "das",
   "english": "product"
 },
@@ -325,19 +325,19 @@
 },
 {
   "id": 55,
-  "word": "das Kaufverhalten",
+  "word": "Kaufverhalten",
   "article": "das",
   "english": "purchasing behaviour"
 },
 {
   "id": 56,
-  "word": "das Verhalten",
+  "word": "Verhalten",
   "article": "das",
   "english": "behaviour"
 },
 {
   "id": 57,
-  "word": "der Slogan",
+  "word": "Slogan",
   "article": "der",
   "english": "slogan"
 },
@@ -373,19 +373,19 @@
 },
 {
   "id": 63,
-  "word": "der Rabatt",
+  "word": "Rabatt",
   "article": "der",
   "english": "discount"
 },
 {
   "id": 64,
-  "word": "das Sonderangebot",
+  "word": "Sonderangebot",
   "article": "das",
   "english": "special offer"
 },
 {
   "id": 65,
-  "word": "das Merkmal",
+  "word": "Merkmal",
   "article": "das",
   "english": "characteristic"
 },
@@ -439,43 +439,43 @@
 },
 {
   "id": 74,
-  "word": "die Erinnerung",
+  "word": "Erinnerung",
   "article": "die",
   "english": "memory"
 },
 {
   "id": 75,
-  "word": "das Magazin",
+  "word": "Magazin",
   "article": "das",
   "english": "magazine"
 },
 {
   "id": 76,
-  "word": "die Vorstellung",
+  "word": "Vorstellung",
   "article": "die",
   "english": "introduction"
 },
 {
   "id": 77,
-  "word": "die EC-Karte",
+  "word": "EC-Karte",
   "article": "die",
   "english": "debit / ATM card"
 },
 {
   "id": 78,
-  "word": "die Geheimzahl",
+  "word": "Geheimzahl",
   "article": "die",
   "english": "PIN code / passcode"
 },
 {
   "id": 79,
-  "word": "der Geldautomat",
+  "word": "Geldautomat",
   "article": "der",
   "english": "ATM"
 },
 {
   "id": 80,
-  "word": "das Girokonto",
+  "word": "Girokonto",
   "article": "das",
   "english": "current account"
 },
@@ -505,7 +505,7 @@
 },
 {
   "id": 85,
-  "word": "das Portemonnaie",
+  "word": "Portemonnaie",
   "article": "das",
   "english": "wallet"
 },
@@ -517,7 +517,7 @@
 },
 {
   "id": 87,
-  "word": "die Ausnahme",
+  "word": "Ausnahme",
   "article": "die",
   "english": "exception"
 },
@@ -601,13 +601,13 @@
 },
 {
   "id": 101,
-  "word": "das Taschentuch",
+  "word": "Taschentuch",
   "article": "das",
   "english": "handkerchief"
 },
 {
   "id": 102,
-  "word": "der Transport",
+  "word": "Transport",
   "article": "der",
   "english": "transport"
 },
@@ -619,7 +619,7 @@
 },
 {
   "id": 104,
-  "word": "die Wand",
+  "word": "Wand",
   "article": "die",
   "english": "wall"
 },
