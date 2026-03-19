@@ -18,7 +18,7 @@ export default function App() {
   const [showSaveList, setShowSaveList] = useState(false);
   const [currentReviewWords, setCurrentReviewWords] = useState([]);
   const [quizWords, setQuizWords] = useState([]);
-  const [level, setLevel] = useState("a1"); // "a1" | "a2" | "b1"
+  const [level, setLevel] = useState("b1ch1"); // "a1" | "a2" | "b1"
 
   // const [completedChunks, setCompletedChunks] = useState(() => {
   //   const saved = localStorage.getItem("completedChunks");
