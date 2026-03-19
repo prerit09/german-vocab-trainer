@@ -113,7 +113,7 @@ export default function App() {
         addToList: false // ✅ ensure checkbox is not pre-checked
       }
     ]);
-    
+
     nextWord();
   }
 
@@ -195,7 +195,7 @@ export default function App() {
           
           <hr className="section-divider" />
 
-          {/* CHUNK BUTTONS */}
+          {/* 25 WORDS CHUNK BUTTONS */}
           <div style={styles.flexWrap}>
             {words.length === 0 ? (
               <p>Loading words…</p>
