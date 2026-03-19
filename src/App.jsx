@@ -29,9 +29,9 @@ export default function App() {
 
   function getWordsUrl(level) {
     switch(level) {
-      case "a1": return import.meta.env.BASE_URL + "data/a1-nouns.json";
-      case "a2": return import.meta.env.BASE_URL + "data/a2-nouns.json";
-      case "b1": return import.meta.env.BASE_URL + "data/b1-nouns.json";
+      // case "a1": return import.meta.env.BASE_URL + "data/a1-nouns.json";
+      // case "a2": return import.meta.env.BASE_URL + "data/a2-nouns.json";
+      // case "b1": return import.meta.env.BASE_URL + "data/b1-nouns.json";
       case "b1ch1": return import.meta.env.BASE_URL + "data/b1-ch-1.json";
       default: throw new Error("Unknown level: " + level);
     }
@@ -89,12 +89,31 @@ export default function App() {
 
   function chooseArticle(article) {
     if (selected) return;
+
     setSelected(article);
+    setShowEnglish(true); // 👈 immediately show English
 
     setAttemptedWords(prev => [
       ...prev,
       { ...currentWord(), selected: article, addToList: false }
     ]);
+  }
+
+  function markAnswer(isCorrect) {
+    if (selected) return;
+
+    setSelected(isCorrect ? "correct" : "incorrect");
+
+    setAttemptedWords(prev => [
+      ...prev,
+      {
+        ...currentWord(),
+        selected: isCorrect ? currentWord().article : "wrong",
+        isManual: true
+      }
+    ]);
+
+    nextWord();
   }
 
   function nextWord() {
@@ -167,9 +186,9 @@ export default function App() {
               className="level-dropdown"
             >
               <option value="b1ch1">B1 - Chapter - 1</option>
-              <option value="a1">A1</option>
+              {/* <option value="a1">A1</option>
               <option value="a2">A2</option>
-              <option value="b1">B1</option>
+              <option value="b1">B1</option> */}
             </select>
           </div>
           
@@ -276,108 +295,104 @@ export default function App() {
         <h2 style={styles.h2}>{mode === "quiz" ? "Quiz" : "Review"}</h2>
         <h1 style={styles.h1}>{word.noun}</h1>
 
-        {/* <div style={styles.flexWrap}>
-          {["der", "die", "das"].map(a => (
-            <button
-              key={a}
-              onClick={() => chooseArticle(a)}
-              style={{
-                padding: "10px 16px",
-                borderRadius: 8,
-                border: "none",
-                cursor: "pointer",
-                fontSize: 16,
-                background:
-                  selected === a
-                    ? a === word.article
-                      ? "#4caf50"
-                      : "#f44336"
-                    : "#eee",
-                color: selected === a ? "#fff" : "#333",
-              }}
-            >
-              {a}
-            </button>
-          ))}
-        </div> */}
+          {/* ----------- MAIN LOGIC ----------- */}
 
-        <div style={styles.flexWrap}>
-          {word.article ? (
-            ["der", "die", "das"].map(a => (
-              <button
-                key={a}
-                onClick={() => chooseArticle(a)}
-                style={{
-                  padding: "10px 16px",
-                  borderRadius: 8,
-                  border: "none",
-                  cursor: "pointer",
-                  fontSize: 16,
-                  background:
-                    selected === a
-                      ? a === word.article
-                        ? "#4caf50"
-                        : "#f44336"
-                      : "#eee",
-                  color: selected === a ? "#fff" : "#333",
-                }}
-              >
-                {a}
-              </button>
-            ))
-          ) : (
-            <>
-              {!showEnglish ? (
-                <button
-                  style={styles.showEnglishButton}
-                  onClick={() => setShowEnglish(true)}
-                >
-                  Show English
-                </button>
-              ) : (
-                <p style={styles.h6}>{word.english}</p>
-              )}
 
-              <button style={styles.nextButton} onClick={nextWord}>
-                Next
-              </button>
-            </>
-          )}
-        </div>
+          {/* <div style={styles.flexWrap}> */}
+            {/* ----------- WITH ARTICLE ----------- */}
+            
+            {word.article && word.article.trim() !== "" ? (
+              <>
+                {/* STEP 1: choose article */}
 
-        {word.article && selected && (
-          <>
-            <p style={styles.h6}>
-              Correct: <strong>{word.article}</strong>
-            </p>
+                <div style={{ marginBottom: 12 }}>
 
-            {!showEnglish ? (
-              <button
-                style={styles.showEnglishButton}
-                onClick={() => setShowEnglish(true)}
-              >
-                Show English
-              </button>
+                  {["der", "die", "das"].map(a => (
+                    <button
+                      key={a}
+                      onClick={() => chooseArticle(a)}
+                      disabled={!!selected}
+                      style={{
+                        padding: "10px 16px",
+                        borderRadius: 8,
+                        border: "none",
+                        cursor: selected ? "default" : "pointer",
+                        fontSize: 16,
+                        background:
+                          selected
+                            ? a === word.article
+                              ? "#4caf50"
+                              : selected === a
+                              ? "#f44336"
+                              : "#eee"
+                            : "#eee",
+                        color: selected ? "#fff" : "#333",
+                      }}
+                    >
+                      {a}
+                    </button>
+                  ))}
+
+                </div>
+
+                {/* STEP 3: show English text */}
+                {selected && showEnglish && (
+                  <div style={{ marginTop: 12 }}>
+                      
+                    <p style={styles.h6}>{word.english}</p>
+
+                    <button style={styles.nextButton} onClick={nextWord}>
+                      Next
+                    </button>
+                  </div>
+                )}
+              </>
             ) : (
-              <p style={styles.h6}>{word.english}</p>
-            )}
+              <>
+                {/* WITHOUT ARTICLE */}
+                {!showEnglish && (
+                  <div style={{ marginBottom: 12 }}>
 
-            <button style={styles.nextButton} onClick={nextWord}>
-              Next
-            </button>
-          </>
-        )}
-        {/* {selected && (
-          <>
-            <p style={styles.h6}>Correct: <strong>{word.article}</strong></p>
-            {!showEnglish ? (
-              <button style={styles.showEnglishButton} onClick={() => setShowEnglish(true)}>Show English</button>
-            ) : (
-              <p style={styles.h6}>{word.english}</p>
+                    <button
+                      style={styles.showEnglishButton}
+                      onClick={() => setShowEnglish(true)}
+                    >
+                      Show English
+                    </button>
+
+                  </div>
+                )}
+
+                {showEnglish && 
+                  <div style={{ marginBottom: 12 }}>
+                    <p style={styles.h6}>{word.english}</p>
+                  </div>
+                }
+
+                {showEnglish && !selected && (
+                  <div style={{ marginTop: 8 }}>
+                    <button
+                      style={{ ...styles.button, background: "#4caf50" }}
+                      onClick={() => markAnswer(true)}
+                    >
+                      Mark as Correct
+                    </button>
+
+                    <button
+                      style={{ ...styles.button, background: "#f44336" }}
+                      onClick={() => markAnswer(false)}
+                    >
+                      Mark as Incorrect
+                    </button>
+                  </div>
+                )}
+              </>
             )}
-            <button style={styles.nextButton} onClick={nextWord}>Next</button>
-          </>
-        )} */}
+          {/* </div> */}
+
+
+          {/* ----------- MAIN LOGIC END ----------- */}
+
       </div>
     </div>
   );
