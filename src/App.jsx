@@ -188,7 +188,7 @@ export default function App() {
               className="level-dropdown"
             >
               <option value="b1ch1">B1 - Chapter - 1</option>
-              <option value="b1ch1">B1 - Chapter - 2</option>
+              <option value="b1ch2">B1 - Chapter - 2</option>
               {/* <option value="a1">A1</option>
               <option value="a2">A2</option>
               <option value="b1">B1</option> */}
