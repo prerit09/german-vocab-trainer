@@ -89,3 +89,49 @@
     color: #bbb;
   }
 }
+
+.animated-title {
+  font-weight: bold;
+  background: linear-gradient(90deg, #4caf50, #1976d2, #f44336, #ff9800);
+  background-size: 300%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: colorSlide 3s linear infinite, fadeScale 1.5s ease forwards;
+}
+
+@keyframes colorSlide {
+  0% { background-position: 0% }
+  50% { background-position: 100% }
+  100% { background-position: 0% }
+}
+
+@keyframes fadeScale {
+  0% {
+    opacity: 0;
+    transform: scale(0.8) translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.correct-flash {
+  animation: correctFlash 0.5s ease forwards;
+}
+
+@keyframes correctFlash {
+  0% { background-color: #4caf50; transform: scale(1); }
+  50% { background-color: #81c784; transform: scale(1.1); }
+  100% { background-color: #4caf50; transform: scale(1); }
+}
+
+.wrong-flash {
+  animation: wrongFlash 0.5s ease forwards;
+}
+
+@keyframes wrongFlash {
+  0% { background-color: #f44336; transform: scale(1); }
+  50% { background-color: #e57373; transform: scale(1.1); }
+  100% { background-color: #f44336; transform: scale(1); }
+}

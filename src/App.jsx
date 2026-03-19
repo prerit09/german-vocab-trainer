@@ -172,7 +172,7 @@ export default function App() {
     return (
       <div style={styles.outer}>
         <div style={styles.container}>
-          <h1 style={styles.h1}>Vokabix</h1>
+        <h1 style={styles.h1} className="animated-title">Vokabix</h1>
           <p className="byline">by Prerit Jain!</p>
           <h3 style={styles.h3}>Start Quiz (Chunks of 25 words)</h3>
 
@@ -252,7 +252,7 @@ export default function App() {
                 type="checkbox"
                 checked={w.addToList}
                 onChange={() => toggleWordForList(w.id)}
-              /> {w.noun} ({w.selected === w.article ? "✓" : "✗"})
+              /> {w.word} ({w.selected === w.article ? "✓" : "✗"})
             </div>
           ))}
 
@@ -293,7 +293,7 @@ export default function App() {
     <div style={styles.outer}>
       <div style={styles.container}>
         <h2 style={styles.h2}>{mode === "quiz" ? "Quiz" : "Review"}</h2>
-        <h1 style={styles.h1}>{word.noun}</h1>
+        <h1 style={styles.h1}>{word.word}</h1>
 
           {/* ----------- MAIN LOGIC ----------- */}
 
@@ -307,32 +307,33 @@ export default function App() {
 
                 <div style={{ marginBottom: 12 }}>
 
-                  {["der", "die", "das"].map(a => (
+                {["der", "die", "das"].map(a => {
+                  let btnClass = "";
+                  if (selected) {
+                    if (a === word.article) btnClass = "correct-flash";
+                    else if (selected === a) btnClass = "wrong-flash";
+                  }
+
+                  return (
                     <button
                       key={a}
                       onClick={() => chooseArticle(a)}
                       disabled={!!selected}
+                      className={btnClass}
                       style={{
                         padding: "10px 16px",
                         borderRadius: 8,
                         border: "none",
                         cursor: selected ? "default" : "pointer",
                         fontSize: 16,
-                        background:
-                          selected
-                            ? a === word.article
-                              ? "#4caf50"
-                              : selected === a
-                              ? "#f44336"
-                              : "#eee"
-                            : "#eee",
+                        background: selected ? (a === word.article ? "#4caf50" : selected === a ? "#f44336" : "#eee") : "#eee",
                         color: selected ? "#fff" : "#333",
                       }}
                     >
                       {a}
                     </button>
-                  ))}
-
+                  );
+                })}
                 </div>
 
                 {/* STEP 3: show English text */}
