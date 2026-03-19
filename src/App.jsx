@@ -108,11 +108,12 @@ export default function App() {
       ...prev,
       {
         ...currentWord(),
-        selected: isCorrect ? currentWord().article : "wrong",
-        isManual: true
+        selected: isCorrect ? "correct" : "wrong", // ✅ always a string
+        isManual: true,
+        addToList: false // ✅ ensure checkbox is not pre-checked
       }
     ]);
-
+    
     nextWord();
   }
 
