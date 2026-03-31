@@ -34,6 +34,7 @@ export default function App() {
       // case "b1": return import.meta.env.BASE_URL + "data/b1-nouns.json";
       case "b1ch1": return import.meta.env.BASE_URL + "data/b1-ch-1.json";
       case "b1ch2": return import.meta.env.BASE_URL + "data/b1-ch-2.json";
+      case "b1ch2adj": return import.meta.env.BASE_URL + "data/b1-ch-2-adjectiv.json";
       default: throw new Error("Unknown level: " + level);
     }
   }
@@ -132,13 +133,17 @@ export default function App() {
 
   function selectAllIncorrect() {
     setAttemptedWords(prev =>
-      prev.map(w => (w.selected !== w.article ? { ...w, addToList: true } : w))
+      prev.map(w => ((w.isManual 
+                      ? w.selected !== "correct"
+                      : w.selected !== w.article) ? { ...w, addToList: true } : w))
     );
   }
 
   function selectAllCorrect() {
     setAttemptedWords(prev =>
-      prev.map(w => (w.selected === w.article ? { ...w, addToList: true } : w))
+      prev.map(w => ((w.isManual 
+                      ? w.selected === "correct"
+                      : w.selected === w.article) ? { ...w, addToList: true } : w))
     );
   }
 
@@ -187,8 +192,9 @@ export default function App() {
               onChange={e => setLevel(e.target.value)}
               className="level-dropdown"
             >
-              <option value="b1ch1">B1 - Chapter - 1</option>
-              <option value="b1ch2">B1 - Chapter - 2</option>
+              <option value="b1ch1">B1 - Einheit - 1</option>
+              <option value="b1ch2">B1 - Einheit - 2</option>
+              <option value="b1ch2adj">B1 - Einheit - 2 - Adjectiv</option>
               {/* <option value="a1">A1</option>
               <option value="a2">A2</option>
               <option value="b1">B1</option> */}
@@ -255,7 +261,10 @@ export default function App() {
                 type="checkbox"
                 checked={w.addToList}
                 onChange={() => toggleWordForList(w.id)}
-              /> {w.word} ({w.selected === w.article ? "✓" : "✗"})
+              /> {w.word} ({w.isManual 
+                            ? (w.selected === "correct" ? "✓" : "✗")
+                            : (w.selected === w.article ? "✓" : "✗")
+                          })
             </div>
           ))}
 
