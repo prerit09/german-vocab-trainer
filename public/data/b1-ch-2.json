@@ -3,642 +3,642 @@
   "id": 1,
   "word": "Staubsauger",
   "article": "der",
-  "english": "vacuum cleaner"
+  "answer": "vacuum cleaner"
 },
 {
   "id": 2,
   "word": "Waschmaschine",
   "article": "die",
-  "english": "washing machine"
+  "answer": "washing machine"
 },
 {
   "id": 3,
   "word": "Kopfhörer",
   "article": "der",
-  "english": "headphones"
+  "answer": "headphones"
 },
 {
   "id": 4,
   "word": "Powerbank",
   "article": "die",
-  "english": "power bank"
+  "answer": "power bank"
 },
 {
   "id": 5,
   "word": "USB-Stick",
   "article": "der",
-  "english": "USB stick / pen drive"
+  "answer": "USB stick / pen drive"
 },
 {
   "id": 6,
   "word": "Knopf",
   "article": "der",
-  "english": "button"
+  "answer": "button"
 },
 {
   "id": 7,
   "word": "Taste",
   "article": "die",
-  "english": "key / button"
+  "answer": "key / button"
 },
 {
   "id": 8,
   "word": "Monitor",
   "article": "der",
-  "english": "monitor"
+  "answer": "monitor"
 },
 {
   "id": 9,
   "word": "einschalten",
   "article": "",
-  "english": "to switch on"
+  "answer": "to switch on"
 },
 {
   "id": 10,
   "word": "installieren",
   "article": "",
-  "english": "to install"
+  "answer": "to install"
 },
 {
   "id": 11,
   "word": "Ladekabel",
   "article": "das",
-  "english": "charging cable"
+  "answer": "charging cable"
 },
 {
   "id": 12,
   "word": "anschließen",
   "article": "",
-  "english": "to link / to attach"
+  "answer": "to link / to attach"
 },
 {
   "id": 13,
   "word": "Handyakku",
   "article": "das",
-  "english": "mobile battery / charging"
+  "answer": "mobile battery / charging"
 },
 {
   "id": 14,
   "word": "aufladen",
   "article": "",
-  "english": "to charge"
+  "answer": "to charge"
 },
 {
   "id": 15,
   "word": "laden",
   "article": "",
-  "english": "to load"
+  "answer": "to load"
 },
 {
   "id": 16,
   "word": "sparsam",
   "article": "",
-  "english": "saving / economical"
+  "answer": "saving / economical"
 },
 {
   "id": 17,
   "word": "stumm schalten",
   "article": "",
-  "english": "to put on silent"
+  "answer": "to put on silent"
 },
 {
   "id": 18,
   "word": "anschaffen",
   "article": "",
-  "english": "to buy something"
+  "answer": "to buy something"
 },
 {
   "id": 19,
   "word": "dabei",
   "article": "",
-  "english": "to have with you"
+  "answer": "to have with you"
 },
 {
   "id": 20,
   "word": "reklamieren",
   "article": "",
-  "english": "to complain"
+  "answer": "to complain"
 },
 {
   "id": 21,
   "word": "umtauschen",
   "article": "",
-  "english": "to exchange"
+  "answer": "to exchange"
 },
 {
   "id": 22,
   "word": "zurückgeben",
   "article": "",
-  "english": "to return / give back"
+  "answer": "to return / give back"
 },
 {
   "id": 23,
   "word": "Garantie",
   "article": "die",
-  "english": "guarantee"
+  "answer": "guarantee"
 },
 {
   "id": 24,
   "word": "Quittung",
   "article": "die",
-  "english": "receipt"
+  "answer": "receipt"
 },
 {
   "id": 25,
   "word": "kaputtgehen",
   "article": "",
-  "english": "to get damaged"
+  "answer": "to get damaged"
 },
 {
   "id": 26,
   "word": "reparieren",
   "article": "",
-  "english": "to repair"
+  "answer": "to repair"
 },
 {
   "id": 27,
   "word": "zufrieden",
   "article": "",
-  "english": "satisfied"
+  "answer": "satisfied"
 },
 {
   "id": 28,
   "word": "testen",
   "article": "",
-  "english": "to test"
+  "answer": "to test"
 },
 {
   "id": 29,
   "word": "benötigen",
   "article": "",
-  "english": "to require"
+  "answer": "to require"
 },
 {
   "id": 30,
   "word": "Anleitung",
   "article": "die",
-  "english": "instructions"
+  "answer": "instructions"
 },
 {
   "id": 31,
   "word": "Gebrauchsanweisung",
   "article": "die",
-  "english": "instruction manual"
+  "answer": "instruction manual"
 },
 {
   "id": 32,
   "word": "automatisch",
   "article": "",
-  "english": "automatic"
+  "answer": "automatic"
 },
 {
   "id": 33,
   "word": "bedienen",
   "article": "",
-  "english": "to serve / to operate"
+  "answer": "to serve / to operate"
 },
 {
   "id": 34,
   "word": "steuern",
   "article": "",
-  "english": "to control"
+  "answer": "to control"
 },
 {
   "id": 35,
   "word": "anpassen",
   "article": "",
-  "english": "to match with something"
+  "answer": "to match with something"
 },
 {
   "id": 36,
   "word": "berühren",
   "article": "",
-  "english": "to touch / to affect somebody"
+  "answer": "to touch / to affect somebody"
 },
 {
   "id": 37,
   "word": "reinigen",
   "article": "",
-  "english": "to clean"
+  "answer": "to clean"
 },
 {
   "id": 38,
   "word": "technisch",
   "article": "",
-  "english": "technical"
+  "answer": "technical"
 },
 {
   "id": 39,
   "word": "Technologie",
   "article": "die",
-  "english": "technology"
+  "answer": "technology"
 },
 {
   "id": 40,
   "word": "smart",
   "article": "",
-  "english": "smart"
+  "answer": "smart"
 },
 {
   "id": 41,
   "word": "machen",
   "article": "",
-  "english": "to make / change to"
+  "answer": "to make / change to"
 },
 {
   "id": 42,
   "word": "Alarmanlage",
   "article": "die",
-  "english": "alarm"
+  "answer": "alarm"
 },
 {
   "id": 43,
   "word": "Einbruch",
   "article": "der",
-  "english": "invasion / break-in"
+  "answer": "invasion / break-in"
 },
 {
   "id": 44,
   "word": "Gefahr",
   "article": "die",
-  "english": "danger"
+  "answer": "danger"
 },
 {
   "id": 45,
   "word": "sicher",
   "article": "",
-  "english": "sure / secure"
+  "answer": "sure / secure"
 },
 {
   "id": 46,
   "word": "Neubau",
   "article": "der",
-  "english": "newly built"
+  "answer": "newly built"
 },
 {
   "id": 47,
   "word": "Haustür",
   "article": "die",
-  "english": "house door / gate"
+  "answer": "house door / gate"
 },
 {
   "id": 48,
   "word": "Fingerabdruck",
   "article": "der",
-  "english": "fingerprint"
+  "answer": "fingerprint"
 },
 {
   "id": 49,
   "word": "Sprachassistent",
   "article": "der",
-  "english": "language assistant"
+  "answer": "language assistant"
 },
 {
   "id": 50,
   "word": "aufnehmen",
   "article": "",
-  "english": "to record"
+  "answer": "to record"
 },
 {
   "id": 51,
   "word": "gleichzeitig",
   "article": "",
-  "english": "simultaneously"
+  "answer": "simultaneously"
 },
 {
   "id": 52,
   "word": "Tagesablauf",
   "article": "der",
-  "english": "daily routine"
+  "answer": "daily routine"
 },
 {
   "id": 53,
   "word": "Produkt",
   "article": "das",
-  "english": "product"
+  "answer": "product"
 },
 {
   "id": 54,
   "word": "auf den Markt kommen",
   "article": "",
-  "english": "to come to the market / to be available"
+  "answer": "to come to the market / to be available"
 },
 {
   "id": 55,
   "word": "Kaufverhalten",
   "article": "das",
-  "english": "purchasing behaviour"
+  "answer": "purchasing behaviour"
 },
 {
   "id": 56,
   "word": "Verhalten",
   "article": "das",
-  "english": "behaviour"
+  "answer": "behaviour"
 },
 {
   "id": 57,
   "word": "Slogan",
   "article": "der",
-  "english": "slogan"
+  "answer": "slogan"
 },
 {
   "id": 58,
   "word": "ansprechen",
   "article": "",
-  "english": "to address / to approach"
+  "answer": "to address / to approach"
 },
 {
   "id": 59,
   "word": "auffallen",
   "article": "",
-  "english": "to strike / to occur to somebody"
+  "answer": "to strike / to occur to somebody"
 },
 {
   "id": 60,
   "word": "wirken",
   "article": "",
-  "english": "to affect something"
+  "answer": "to affect something"
 },
 {
   "id": 61,
   "word": "wecken",
   "article": "",
-  "english": "to awaken"
+  "answer": "to awaken"
 },
 {
   "id": 62,
   "word": "beeinflussen",
   "article": "",
-  "english": "to influence"
+  "answer": "to influence"
 },
 {
   "id": 63,
   "word": "Rabatt",
   "article": "der",
-  "english": "discount"
+  "answer": "discount"
 },
 {
   "id": 64,
   "word": "Sonderangebot",
   "article": "das",
-  "english": "special offer"
+  "answer": "special offer"
 },
 {
   "id": 65,
   "word": "Merkmal",
   "article": "das",
-  "english": "characteristic"
+  "answer": "characteristic"
 },
 {
   "id": 66,
   "word": "frech",
   "article": "",
-  "english": "naughty"
+  "answer": "naughty"
 },
 {
   "id": 67,
   "word": "ausgezeichnet",
   "article": "",
-  "english": "excellent"
+  "answer": "excellent"
 },
 {
   "id": 68,
   "word": "bemerken",
   "article": "",
-  "english": "to notice"
+  "answer": "to notice"
 },
 {
   "id": 69,
   "word": "verbieten",
   "article": "",
-  "english": "to prohibit"
+  "answer": "to prohibit"
 },
 {
   "id": 70,
   "word": "vertrauen",
   "article": "",
-  "english": "to trust"
+  "answer": "to trust"
 },
 {
   "id": 71,
   "word": "reichen",
   "article": "",
-  "english": "to be enough"
+  "answer": "to be enough"
 },
 {
   "id": 72,
   "word": "aufmerksam",
   "article": "",
-  "english": "attentive"
+  "answer": "attentive"
 },
 {
   "id": 73,
   "word": "interessiert",
   "article": "",
-  "english": "interested"
+  "answer": "interested"
 },
 {
   "id": 74,
   "word": "Erinnerung",
   "article": "die",
-  "english": "memory"
+  "answer": "memory"
 },
 {
   "id": 75,
   "word": "Magazin",
   "article": "das",
-  "english": "magazine"
+  "answer": "magazine"
 },
 {
   "id": 76,
   "word": "Vorstellung",
   "article": "die",
-  "english": "introduction"
+  "answer": "introduction"
 },
 {
   "id": 77,
   "word": "EC-Karte",
   "article": "die",
-  "english": "debit / ATM card"
+  "answer": "debit / ATM card"
 },
 {
   "id": 78,
   "word": "Geheimzahl",
   "article": "die",
-  "english": "PIN code / passcode"
+  "answer": "PIN code / passcode"
 },
 {
   "id": 79,
   "word": "Geldautomat",
   "article": "der",
-  "english": "ATM"
+  "answer": "ATM"
 },
 {
   "id": 80,
   "word": "Girokonto",
   "article": "das",
-  "english": "current account"
+  "answer": "current account"
 },
 {
   "id": 81,
   "word": "gratis",
   "article": "",
-  "english": "free"
+  "answer": "free"
 },
 {
   "id": 82,
   "word": "genügen",
   "article": "",
-  "english": "to satisfy / to be enough"
+  "answer": "to satisfy / to be enough"
 },
 {
   "id": 83,
   "word": "sich lohnen",
   "article": "",
-  "english": "to be worthy"
+  "answer": "to be worthy"
 },
 {
   "id": 84,
   "word": "sich leisten",
   "article": "",
-  "english": "to afford"
+  "answer": "to afford"
 },
 {
   "id": 85,
   "word": "Portemonnaie",
   "article": "das",
-  "english": "wallet"
+  "answer": "wallet"
 },
 {
   "id": 86,
   "word": "anhaben",
   "article": "",
-  "english": "to wear"
+  "answer": "to wear"
 },
 {
   "id": 87,
   "word": "Ausnahme",
   "article": "die",
-  "english": "exception"
+  "answer": "exception"
 },
 {
   "id": 88,
   "word": "bereits",
   "article": "",
-  "english": "already"
+  "answer": "already"
 },
 {
   "id": 89,
   "word": "bloß",
   "article": "",
-  "english": "mere / just"
+  "answer": "mere / just"
 },
 {
   "id": 90,
   "word": "diesmal",
   "article": "",
-  "english": "this time"
+  "answer": "this time"
 },
 {
   "id": 91,
   "word": "daher / darum / deswegen",
   "article": "",
-  "english": "that is why"
+  "answer": "that is why"
 },
 {
   "id": 92,
   "word": "sodass",
   "article": "",
-  "english": "as a result that"
+  "answer": "as a result that"
 },
 {
   "id": 93,
   "word": "ebenfalls",
   "article": "",
-  "english": "likewise / also"
+  "answer": "likewise / also"
 },
 {
   "id": 94,
   "word": "vor einer Frage stehen",
   "article": "",
-  "english": "to get stuck with a question"
+  "answer": "to get stuck with a question"
 },
 {
   "id": 95,
   "word": "geschehen",
   "article": "",
-  "english": "to happen"
+  "answer": "to happen"
 },
 {
   "id": 96,
   "word": "merkwürdig",
   "article": "",
-  "english": "odd / strange"
+  "answer": "odd / strange"
 },
 {
   "id": 97,
   "word": "seltsam",
   "article": "",
-  "english": "odd / strange"
+  "answer": "odd / strange"
 },
 {
   "id": 98,
   "word": "nähen",
   "article": "",
-  "english": "to stitch"
+  "answer": "to stitch"
 },
 {
   "id": 99,
   "word": "rein",
   "article": "",
-  "english": "pure"
+  "answer": "pure"
 },
 {
   "id": 100,
   "word": "sich Sorgen machen",
   "article": "",
-  "english": "to be worried"
+  "answer": "to be worried"
 },
 {
   "id": 101,
   "word": "Taschentuch",
   "article": "das",
-  "english": "handkerchief"
+  "answer": "handkerchief"
 },
 {
   "id": 102,
   "word": "Transport",
   "article": "der",
-  "english": "transport"
+  "answer": "transport"
 },
 {
   "id": 103,
   "word": "verraten",
   "article": "",
-  "english": "to disclose something"
+  "answer": "to disclose something"
 },
 {
   "id": 104,
   "word": "Wand",
   "article": "die",
-  "english": "wall"
+  "answer": "wall"
 },
 {
   "id": 105,
   "word": "streichen",
   "article": "",
-  "english": "to cancel / to paint something"
+  "answer": "to cancel / to paint something"
 },
 {
   "id": 106,
   "word": "wegen",
   "article": "",
-  "english": "because of"
+  "answer": "because of"
 },
 {
   "id": 107,
   "word": "trotz",
   "article": "",
-  "english": "in spite of"
+  "answer": "in spite of"
 }
 ]

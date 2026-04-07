@@ -3,632 +3,632 @@
     "id": 1,
     "word": "Winterurlaub",
     "article": "der",
-    "english": "winter vacation"
+    "answer": "winter vacation"
   },
   {
     "id": 2,
     "word": "Skigebiet",
     "article": "das",
-    "english": "ski area"
+    "answer": "ski area"
   },
   {
     "id": 3,
     "word": "(Ski-)Lift",
     "article": "der",
-    "english": "(ski) lift"
+    "answer": "(ski) lift"
   },
   {
     "id": 4,
     "word": "Strandurlaub",
     "article": "der",
-    "english": "beach holiday"
+    "answer": "beach holiday"
   },
   {
     "id": 5,
     "word": "Küste",
     "article": "die",
-    "english": "coast"
+    "answer": "coast"
   },
   {
     "id": 6,
     "word": "Sand",
     "article": "der",
-    "english": "sand"
+    "answer": "sand"
   },
   {
     "id": 7,
     "word": "Strandpromenade",
     "article": "die",
-    "english": "beach promenade"
+    "answer": "beach promenade"
   },
   {
     "id": 8,
     "word": "Urlaubsgruß",
     "article": "der",
-    "english": "holiday greeting"
+    "answer": "holiday greeting"
   },
  {
     "id": 9,
     "word": "Zeitpunkt",
     "article": "der",
-    "english": "point of time"
+    "answer": "point of time"
   },
   {
     "id": 10,
     "word": "Terminkalender",
     "article": "der",
-    "english": "appointment calendar"
+    "answer": "appointment calendar"
   },
   {
     "id": 11,
     "word": "rechtzeitig",
     "article": "",
-    "english": "timely"
+    "answer": "timely"
   },
   {
     "id": 12,
     "word": "gründlich",
     "article": "",
-    "english": "thorough"
+    "answer": "thorough"
   },
   {
     "id": 13,
     "word": "buchen",
     "article": "",
-    "english": "to book"
+    "answer": "to book"
   },
   {
     "id": 14,
     "word": "sich entschließen",
     "article": "",
-    "english": "to decide"
+    "answer": "to decide"
   },
   {
     "id": 15,
     "word": "Halbpension",
     "article": "die",
-    "english": "half board"
+    "answer": "half board"
   },
   {
     "id": 16,
     "word": "Vollpension",
     "article": "die",
-    "english": "full board"
+    "answer": "full board"
   },
   {
     "id": 17,
     "word": "höchstens",
     "article": "",
-    "english": "at most / mostly"
+    "answer": "at most / mostly"
   },
   {
     "id": 18,
     "word": "enthalten sein",
     "article": "",
-    "english": "to be contained / included"
+    "answer": "to be contained / included"
   },
   {
     "id": 19,
     "word": "Kompromiss",
     "article": "der",
-    "english": "compromise"
+    "answer": "compromise"
   },
   {
     "id": 20,
     "word": "meinetwegen",
     "article": "",
-    "english": "whatever!"
+    "answer": "whatever!"
   },
   {
     "id": 21,
     "word": "dabei sein",
     "article": "",
-    "english": "to be there / enclosed"
+    "answer": "to be there / enclosed"
   },
   {
     "id": 22,
     "word": "Einfall",
     "article": "der",
-    "english": "idea"
+    "answer": "idea"
   },
   {
     "id": 23,
     "word": "einpacken",
     "article": "",
-    "english": "to pack"
+    "answer": "to pack"
   },
   {
     "id": 24,
     "word": "auspacken",
     "article": "",
-    "english": "to unpack"
+    "answer": "to unpack"
   },
   {
     "id": 25,
     "word": "Mitarbeiter",
     "article": "der",
-    "english": "employee (male)"
+    "answer": "employee (male)"
   },
   {
     "id": 26,
     "word": "Mitarbeiterin",
     "article": "die",
-    "english": "employee (female)"
+    "answer": "employee (female)"
   },
   {
     "id": 27,
     "word": "Ferienhaus",
     "article": "das",
-    "english": "holiday house"
+    "answer": "holiday house"
   },
   {
     "id": 28,
     "word": "Wellnesshotel",
     "article": "das",
-    "english": "wellness hotel / spa"
+    "answer": "wellness hotel / spa"
   },
   {
     "id": 29,
     "word": "Hütte",
     "article": "die",
-    "english": "hut"
+    "answer": "hut"
   },
   {
     "id": 30,
     "word": "Badewanne",
     "article": "die",
-    "english": "bathtub"
+    "answer": "bathtub"
   },
   {
     "id": 31,
     "word": "im Freien übernachten",
     "article": "",
-    "english": "to stay overnight in the open air"
+    "answer": "to stay overnight in the open air"
   },
   {
     "id": 32,
     "word": "zelten",
     "article": "",
-    "english": "to camp"
+    "answer": "to camp"
   },
   {
     "id": 33,
     "word": "aufbauen",
     "article": "",
-    "english": "to set up / assemble"
+    "answer": "to set up / assemble"
   },
   {
     "id": 34,
     "word": "Ausblick",
     "article": "der",
-    "english": "outlook"
+    "answer": "outlook"
   },
   {
     "id": 35,
     "word": "Aussicht",
     "article": "die",
-    "english": "view / prospect"
+    "answer": "view / prospect"
   },
   {
     "id": 36,
     "word": "herrlich",
     "article": "",
-    "english": "superb / lovely"
+    "answer": "superb / lovely"
   },
   {
     "id": 37,
     "word": "schick",
     "article": "",
-    "english": "fashionable"
+    "answer": "fashionable"
   },
   {
     "id": 38,
     "word": "Aufenthalt",
     "article": "der",
-    "english": "stay"
+    "answer": "stay"
   },
   {
     "id": 39,
     "word": "vorbei sein",
     "article": "",
-    "english": "to be over"
+    "answer": "to be over"
   },
   {
     "id": 40,
     "word": "Urlaubsziel",
     "article": "das",
-    "english": "holiday destination"
+    "answer": "holiday destination"
   },
   {
     "id": 41,
     "word": "Entfernung",
     "article": "die",
-    "english": "distance"
+    "answer": "distance"
   },
   {
     "id": 42,
     "word": "Fahrtzeit",
     "article": "die",
-    "english": "travel time"
+    "answer": "travel time"
   },
   {
     "id": 43,
     "word": "gegen",
     "article": "",
-    "english": "around"
+    "answer": "around"
   },
   {
     "id": 44,
     "word": "Hauptbahnhof",
     "article": "der",
-    "english": "main railway station"
+    "answer": "main railway station"
   },
   {
     "id": 45,
     "word": "ICE",
     "article": "der",
-    "english": "InterCity Express"
+    "answer": "InterCity Express"
   },
   {
     "id": 46,
     "word": "Kofferraum",
     "article": "der",
-    "english": "trunk"
+    "answer": "trunk"
   },
   {
     "id": 47,
     "word": "Schifffahrt",
     "article": "die",
-    "english": "ship travel"
+    "answer": "ship travel"
   },
   {
     "id": 48,
     "word": "Boot",
     "article": "das",
-    "english": "boat"
+    "answer": "boat"
   },
     {
     "id": 49,
     "word": "Alm",
     "article": "die",
-    "english": "alp / mountain pasture"
+    "answer": "alp / mountain pasture"
   },
   {
     "id": 50,
     "word": "Kuh",
     "article": "die",
-    "english": "cow"
+    "answer": "cow"
   },
   {
     "id": 51,
     "word": "Wanderer",
     "article": "der",
-    "english": "hiker"
+    "answer": "hiker"
   },
   {
     "id": 52,
     "word": "Gebirge",
     "article": "das",
-    "english": "mountains"
+    "answer": "mountains"
   },
   {
     "id": 53,
     "word": "Himmel",
     "article": "der",
-    "english": "sky"
+    "answer": "sky"
   },
   {
     "id": 54,
     "word": "Wiese",
     "article": "die",
-    "english": "meadow"
+    "answer": "meadow"
   },
   {
     "id": 55,
     "word": "Traube",
     "article": "die",
-    "english": "grapes"
+    "answer": "grapes"
   },
   {
     "id": 56,
     "word": "reif",
     "article": "",
-    "english": "ripe"
+    "answer": "ripe"
   },
   {
     "id": 57,
     "word": "brennen",
     "article": "",
-    "english": "to burn"
+    "answer": "to burn"
   },
   {
     "id": 58,
     "word": "Insekt",
     "article": "das",
-    "english": "insect"
+    "answer": "insect"
   },
   {
     "id": 59,
     "word": "Schutz",
     "article": "der",
-    "english": "protection"
+    "answer": "protection"
   },
   {
     "id": 60,
     "word": "Netz",
     "article": "das",
-    "english": "net / network"
+    "answer": "net / network"
   },
   {
     "id": 61,
     "word": "Einsamkeit",
     "article": "die",
-    "english": "loneliness"
+    "answer": "loneliness"
   },
   {
     "id": 62,
     "word": "einsam",
     "article": "",
-    "english": "lonely"
+    "answer": "lonely"
   },
   {
     "id": 63,
     "word": "Empfang",
     "article": "der",
-    "english": "reception"
+    "answer": "reception"
   },
   {
     "id": 64,
     "word": "weg sein",
     "article": "",
-    "english": "to be away"
+    "answer": "to be away"
   },
   {
     "id": 65,
     "word": "Heimweh",
     "article": "das",
-    "english": "homesickness"
+    "answer": "homesickness"
   },
   {
     "id": 66,
     "word": "sich erkälten",
     "article": "",
-    "english": "to catch cold"
+    "answer": "to catch cold"
   },
     {
     "id": 67,
     "word": "Abenteuer",
     "article": "das",
-    "english": "adventure"
+    "answer": "adventure"
   },
   {
     "id": 68,
     "word": "Erlebnis",
     "article": "das",
-    "english": "experience"
+    "answer": "experience"
   },
   {
     "id": 69,
     "word": "entspannend",
     "article": "",
-    "english": "relaxing"
+    "answer": "relaxing"
   },
   {
     "id": 70,
     "word": "angenehm",
     "article": "",
-    "english": "pleasant"
+    "answer": "pleasant"
   },
   {
     "id": 71,
     "word": "sich erholen",
     "article": "",
-    "english": "to relax oneself"
+    "answer": "to relax oneself"
   },
   {
     "id": 72,
     "word": "faulenzen",
     "article": "",
-    "english": "to laze around"
+    "answer": "to laze around"
   },
   {
     "id": 73,
     "word": "spazieren",
     "article": "",
-    "english": "to walk"
+    "answer": "to walk"
   },
   {
     "id": 74,
     "word": "Pilz",
     "article": "der",
-    "english": "mushroom"
+    "answer": "mushroom"
   },
   {
     "id": 75,
     "word": "mitarbeiten",
     "article": "",
-    "english": "to work along"
+    "answer": "to work along"
   },
   {
     "id": 76,
     "word": "vorbeikommen",
     "article": "",
-    "english": "to come by"
+    "answer": "to come by"
   },
   
 {
     "id": 77,
     "word": "begeistert sein",
     "article": "",
-    "english": "to be excited"
+    "answer": "to be excited"
   },
   {
     "id": 78,
     "word": "gut/schlecht gelaunt sein",
     "article": "",
-    "english": "to be in a good/bad mood"
+    "answer": "to be in a good/bad mood"
   },
   {
     "id": 79,
     "word": "zufrieden sein",
     "article": "",
-    "english": "to be satisfied"
+    "answer": "to be satisfied"
   },
   {
     "id": 80,
     "word": "genervt sein",
     "article": "",
-    "english": "to be annoyed"
+    "answer": "to be annoyed"
   },
   {
     "id": 81,
     "word": "enttäuscht sein",
     "article": "",
-    "english": "to be disappointed"
+    "answer": "to be disappointed"
   },
   {
     "id": 82,
     "word": "verzweifelt sein",
     "article": "",
-    "english": "to be desperate / exasperated"
+    "answer": "to be desperate / exasperated"
   },
     {
     "id": 83,
     "word": "beinahe",
     "article": "",
-    "english": "nearly / almost"
+    "answer": "nearly / almost"
   },
   {
     "id": 84,
     "word": "Ohren auf",
     "article": "",
-    "english": "listen carefully / all ears"
+    "answer": "listen carefully / all ears"
   },
   {
     "id": 85,
     "word": "drüben",
     "article": "",
-    "english": "over there"
+    "answer": "over there"
   },
   {
     "id": 86,
     "word": "hierher",
     "article": "",
-    "english": "this way / over here"
+    "answer": "this way / over here"
   },
   {
     "id": 87,
     "word": "momentan",
     "article": "",
-    "english": "currently"
+    "answer": "currently"
   },
   {
     "id": 88,
     "word": "eher",
     "article": "",
-    "english": "rather / sooner"
+    "answer": "rather / sooner"
   },
   {
     "id": 89,
     "word": "jedenfalls",
     "article": "",
-    "english": "anyhow / in any case"
+    "answer": "anyhow / in any case"
   },
   {
     "id": 90,
     "word": "circa",
     "article": "",
-    "english": "approximately"
+    "answer": "approximately"
   },
   {
     "id": 91,
     "word": "falls",
     "article": "",
-    "english": "if / in case"
+    "answer": "if / in case"
   },
   {
     "id": 92,
     "word": "offenbar",
     "article": "",
-    "english": "obviously / apparently"
+    "answer": "obviously / apparently"
   },
   {
     "id": 93,
     "word": "Typ",
     "article": "der",
-    "english": "guy"
+    "answer": "guy"
   },
   {
     "id": 94,
     "word": "Chat",
     "article": "der",
-    "english": "chat"
+    "answer": "chat"
   },
   {
     "id": 95,
     "word": "erfahren",
     "article": "",
-    "english": "to experience"
+    "answer": "to experience"
   },
   {
     "id": 96,
     "word": "Neuigkeit",
     "article": "die",
-    "english": "news"
+    "answer": "news"
   },
   {
     "id": 97,
     "word": "Rückblick",
     "article": "der",
-    "english": "flashback / review"
+    "answer": "flashback / review"
   },
   {
     "id": 98,
     "word": "solche",
     "article": "",
-    "english": "such"
+    "answer": "such"
   },
   {
     "id": 99,
     "word": "tragen",
     "article": "",
-    "english": "to carry / to wear"
+    "answer": "to carry / to wear"
   },
   {
     "id": 100,
     "word": "vorne liegen",
     "article": "",
-    "english": "to be in the lead"
+    "answer": "to be in the lead"
   },
   {
     "id": 101,
     "word": "wieso",
     "article": "",
-    "english": "why"
+    "answer": "why"
   },
   {
     "id": 102,
     "word": "Zeug",
     "article": "das",
-    "english": "stuff / kit"
+    "answer": "stuff / kit"
   },
   {
     "id": 103,
     "word": "da",
     "article": "",
-    "english": "because / there"
+    "answer": "because / there"
   },
   {
     "id": 104,
     "word": "obwohl",
     "article": "",
-    "english": "although"
+    "answer": "although"
   },
   {
     "id": 105,
     "word": "zu",
     "article": "",
-    "english": "to"
+    "answer": "to"
   }
 
 ]

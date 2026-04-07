@@ -18,7 +18,7 @@ export default function App() {
   const [showSaveList, setShowSaveList] = useState(false);
   const [currentReviewWords, setCurrentReviewWords] = useState([]);
   const [quizWords, setQuizWords] = useState([]);
-  const [level, setLevel] = useState("b1ch1"); // "a1" | "a2" | "b1"
+  const [level, setLevel] = useState("b1-ch-1"); // "a1" | "a2" | "b1"
 
   // const [completedChunks, setCompletedChunks] = useState(() => {
   //   const saved = localStorage.getItem("completedChunks");
@@ -32,9 +32,10 @@ export default function App() {
       // case "a1": return import.meta.env.BASE_URL + "data/a1-nouns.json";
       // case "a2": return import.meta.env.BASE_URL + "data/a2-nouns.json";
       // case "b1": return import.meta.env.BASE_URL + "data/b1-nouns.json";
-      case "b1ch1": return import.meta.env.BASE_URL + "data/b1-ch-1.json";
-      case "b1ch2": return import.meta.env.BASE_URL + "data/b1-ch-2.json";
-      case "b1ch2adj": return import.meta.env.BASE_URL + "data/b1-ch-2-adjectiv.json";
+      case "b1-ch-1": return import.meta.env.BASE_URL + "data/b1-ch-1.json";
+      case "b1-ch-2": return import.meta.env.BASE_URL + "data/b1-ch-2.json";
+      case "b1-ch-2-adjectiv": return import.meta.env.BASE_URL + "data/b1-ch-2-adjectiv.json";
+      case "b1-ch-2-fixed-preposition": return import.meta.env.BASE_URL + "data/b1-ch-2-fixed-preposition.json";
       default: throw new Error("Unknown level: " + level);
     }
   }
@@ -192,9 +193,10 @@ export default function App() {
               onChange={e => setLevel(e.target.value)}
               className="level-dropdown"
             >
-              <option value="b1ch1">B1 - Einheit - 1</option>
-              <option value="b1ch2">B1 - Einheit - 2</option>
-              <option value="b1ch2adj">B1 - Einheit - 2 - Adjectiv</option>
+              <option value="b1-ch-1">B1 - Einheit - 1</option>
+              <option value="b1-ch-2">B1 - Einheit - 2</option>
+              <option value="b1-ch-2-adjectiv">B1 - Einheit - 2 - Adjectiv</option>
+              <option value="b1-ch-2-fixed-preposition">B1 - Einheit - 2 - Feste Präposition</option>
               {/* <option value="a1">A1</option>
               <option value="a2">A2</option>
               <option value="b1">B1</option> */}
@@ -352,7 +354,7 @@ export default function App() {
                 {selected && showEnglish && (
                   <div style={{ marginTop: 12 }}>
                       
-                    <p style={styles.h6}>{word.english}</p>
+                    <p style={styles.h6}>{word.answer}</p>
 
                     <button style={styles.nextButton} onClick={nextWord}>
                       Next
@@ -370,7 +372,7 @@ export default function App() {
                       style={styles.showEnglishButton}
                       onClick={() => setShowEnglish(true)}
                     >
-                      Show English
+                      Show Answer
                     </button>
 
                   </div>
@@ -378,7 +380,7 @@ export default function App() {
 
                 {showEnglish && 
                   <div style={{ marginBottom: 12 }}>
-                    <p style={styles.h6}>{word.english}</p>
+                    <p style={styles.h6}>{word.answer}</p>
                   </div>
                 }
 
