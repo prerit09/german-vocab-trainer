@@ -18,14 +18,14 @@ export default function App() {
   const [showSaveList, setShowSaveList] = useState(false);
   const [currentReviewWords, setCurrentReviewWords] = useState([]);
   const [quizWords, setQuizWords] = useState([]);
-  const [level, setLevel] = useState("b1-ch-1"); // "a1" | "a2" | "b1"
+  const [level, setLevel] = useState("b1-ch-2-fixed-preposition"); // "a1" | "a2" | "b1"
 
   // const [completedChunks, setCompletedChunks] = useState(() => {
   //   const saved = localStorage.getItem("completedChunks");
   //   return saved ? JSON.parse(saved) : {};
   // });
 
-  const CHUNK_SIZE = 10;
+  const CHUNK_SIZE = 20;
 
   function getWordsUrl(level) {
     switch(level) {
@@ -182,7 +182,7 @@ export default function App() {
         <div style={styles.container}>
         <h1 style={styles.h1} className="animated-title">Vokabix</h1>
           <p className="byline">by Prerit Jain!</p>
-          <h3 style={styles.h3}>Start Quiz (Chunks of 10 words)</h3>
+          <h3 style={styles.h3}>Start Quiz (Chunks of 20 words)</h3>
 
           {/* LEVEL SELECTOR */}
           <div className="level-selector">
@@ -205,7 +205,7 @@ export default function App() {
           
           <hr className="section-divider" />
 
-          {/* 10 WORDS CHUNK BUTTONS */}
+          {/* 20 WORDS CHUNK BUTTONS */}
           <div style={styles.flexWrap}>
             {words.length === 0 ? (
               <p>Loading words…</p>
