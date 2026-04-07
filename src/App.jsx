@@ -25,7 +25,7 @@ export default function App() {
   //   return saved ? JSON.parse(saved) : {};
   // });
 
-  const CHUNK_SIZE = 25;
+  const CHUNK_SIZE = 10;
 
   function getWordsUrl(level) {
     switch(level) {
@@ -182,7 +182,7 @@ export default function App() {
         <div style={styles.container}>
         <h1 style={styles.h1} className="animated-title">Vokabix</h1>
           <p className="byline">by Prerit Jain!</p>
-          <h3 style={styles.h3}>Start Quiz (Chunks of 25 words)</h3>
+          <h3 style={styles.h3}>Start Quiz (Chunks of 10 words)</h3>
 
           {/* LEVEL SELECTOR */}
           <div className="level-selector">
@@ -205,7 +205,7 @@ export default function App() {
           
           <hr className="section-divider" />
 
-          {/* 25 WORDS CHUNK BUTTONS */}
+          {/* 10 WORDS CHUNK BUTTONS */}
           <div style={styles.flexWrap}>
             {words.length === 0 ? (
               <p>Loading words…</p>
