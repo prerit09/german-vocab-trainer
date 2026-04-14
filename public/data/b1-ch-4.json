@@ -322,5 +322,311 @@
     "word": "Anlage",
     "article": "die",
     "answer": "investment / attachment"
+  },
+  {
+    "id": 55,
+    "word": "sich beschäftigen (mit + D.)",
+    "article": null,
+    "answer": "to occupy with"
+  },
+  {
+    "id": 56,
+    "word": "die Entwicklung",
+    "article": "die",
+    "answer": "development"
+  },
+  {
+    "id": 57,
+    "word": "die Fortbildung",
+    "article": "die",
+    "answer": "further education"
+  },
+  {
+    "id": 58,
+    "word": "die Planung",
+    "article": "die",
+    "answer": "planning"
+  },
+  {
+    "id": 59,
+    "word": "geregelt",
+    "article": null,
+    "answer": "regulated"
+  },
+  {
+    "id": 60,
+    "word": "der Rechner",
+    "article": "der",
+    "answer": "calculator"
+  },
+  {
+    "id": 61,
+    "word": "aggressiv",
+    "article": null,
+    "answer": "aggressive"
+  },
+  {
+    "id": 62,
+    "word": "befriedigend",
+    "article": null,
+    "answer": "satisfying"
+  },
+  {
+    "id": 63,
+    "word": "exakt",
+    "article": null,
+    "answer": "accurate"
+  },
+  {
+    "id": 64,
+    "word": "kommunikativ",
+    "article": null,
+    "answer": "communicative"
+  },
+  {
+    "id": 65,
+    "word": "konservativ",
+    "article": null,
+    "answer": "conservative"
+  },
+  {
+    "id": 66,
+    "word": "locker",
+    "article": null,
+    "answer": "easygoing"
+  },
+  {
+    "id": 67,
+    "word": "menschlich",
+    "article": null,
+    "answer": "kind / human"
+  },
+  {
+    "id": 68,
+    "word": "offen",
+    "article": null,
+    "answer": "open / frank"
+  },
+  {
+    "id": 69,
+    "word": "optimistisch",
+    "article": null,
+    "answer": "optimistic"
+  },
+  {
+    "id": 70,
+    "word": "qualifiziert",
+    "article": null,
+    "answer": "qualified"
+  },
+  {
+    "id": 71,
+    "word": "speziell",
+    "article": null,
+    "answer": "special"
+  },
+  {
+    "id": 72,
+    "word": "unfreundlich",
+    "article": null,
+    "answer": "unfriendly"
+  },
+  {
+    "id": 73,
+    "word": "zornig",
+    "article": null,
+    "answer": "furious"
+  },
+  {
+    "id": 74,
+    "word": "die Absicht",
+    "article": "die",
+    "answer": "purpose / intention"
+  },
+  {
+    "id": 75,
+    "word": "das Versehen",
+    "article": "das",
+    "answer": "mistake / oversight"
+  },
+  {
+    "id": 76,
+    "word": "sich irren (in + D.)",
+    "article": null,
+    "answer": "to be mistaken"
+  },
+  {
+    "id": 77,
+    "word": "verwechseln",
+    "article": null,
+    "answer": "to mistake / to confuse"
+  },
+  {
+    "id": 78,
+    "word": "verzeihen",
+    "article": null,
+    "answer": "to pardon / to forgive"
+  },
+  {
+    "id": 79,
+    "word": "schrecklich",
+    "article": null,
+    "answer": "terrible"
+  },
+  {
+    "id": 80,
+    "word": "der Hammer",
+    "article": "der",
+    "answer": "hammer"
+  },
+  {
+    "id": 81,
+    "word": "das Metall",
+    "article": "das",
+    "answer": "metal"
+  },
+  {
+    "id": 82,
+    "word": "die Bürste",
+    "article": "die",
+    "answer": "brush"
+  },
+  {
+    "id": 83,
+    "word": "die Schere",
+    "article": "die",
+    "answer": "scissors"
+  },
+  {
+    "id": 84,
+    "word": "das Besteck",
+    "article": "das",
+    "answer": "cutlery"
+  },
+  {
+    "id": 85,
+    "word": "absolut",
+    "article": null,
+    "answer": "absolute"
+  },
+  {
+    "id": 86,
+    "word": "der Augenblick",
+    "article": "der",
+    "answer": "moment / view"
+  },
+  {
+    "id": 87,
+    "word": "der Faktor",
+    "article": "der",
+    "answer": "factor"
+  },
+  {
+    "id": 88,
+    "word": "gesamt",
+    "article": null,
+    "answer": "entire / total"
+  },
+  {
+    "id": 89,
+    "word": "möglichst",
+    "article": null,
+    "answer": "as possible"
+  },
+  {
+    "id": 90,
+    "word": "kürzlich",
+    "article": null,
+    "answer": "shortly / recently"
+  },
+  {
+    "id": 91,
+    "word": "sämtlich",
+    "article": null,
+    "answer": "altogether / all"
+  },
+  {
+    "id": 92,
+    "word": "jedoch",
+    "article": null,
+    "answer": "however"
+  },
+  {
+    "id": 93,
+    "word": "ursprünglich",
+    "article": null,
+    "answer": "originally"
+  },
+  {
+    "id": 94,
+    "word": "selbstverständlich",
+    "article": null,
+    "answer": "self-understood / of course"
+  },
+  {
+    "id": 95,
+    "word": "stellen",
+    "article": null,
+    "answer": "to put / to set"
+  },
+  {
+    "id": 96,
+    "word": "die Gaststätte",
+    "article": "die",
+    "answer": "restaurant"
+  },
+  {
+    "id": 97,
+    "word": "der Imbiss",
+    "article": "der",
+    "answer": "snack"
+  },
+  {
+    "id": 98,
+    "word": "die Verbindung",
+    "article": "die",
+    "answer": "connection"
+  },
+  {
+    "id": 99,
+    "word": "das Vergnügen",
+    "article": "das",
+    "answer": "pleasure"
+  },
+  {
+    "id": 100,
+    "word": "die Partei",
+    "article": "die",
+    "answer": "party"
+  },
+  {
+    "id": 101,
+    "word": "die Öffentlichkeit",
+    "article": "die",
+    "answer": "public"
+  },
+  {
+    "id": 102,
+    "word": "vorziehen",
+    "article": null,
+    "answer": "to prefer"
+  },
+  {
+    "id": 103,
+    "word": "zahlreich",
+    "article": null,
+    "answer": "numerous"
+  },
+  {
+    "id": 104,
+    "word": "der Zweck",
+    "article": "der",
+    "answer": "purpose / goal"
+  },
+  {
+    "id": 105,
+    "word": "zweifeln (an + D.)",
+    "article": null,
+    "answer": "to doubt"
   }
 ]
