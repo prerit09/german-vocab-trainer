@@ -331,19 +331,19 @@
   },
   {
     "id": 56,
-    "word": "die Entwicklung",
+    "word": "Entwicklung",
     "article": "die",
     "answer": "development"
   },
   {
     "id": 57,
-    "word": "die Fortbildung",
+    "word": "Fortbildung",
     "article": "die",
     "answer": "further education"
   },
   {
     "id": 58,
-    "word": "die Planung",
+    "word": "Planung",
     "article": "die",
     "answer": "planning"
   },
@@ -355,7 +355,7 @@
   },
   {
     "id": 60,
-    "word": "der Rechner",
+    "word": "Rechner",
     "article": "der",
     "answer": "calculator"
   },
@@ -439,13 +439,13 @@
   },
   {
     "id": 74,
-    "word": "die Absicht",
+    "word": "Absicht",
     "article": "die",
     "answer": "purpose / intention"
   },
   {
     "id": 75,
-    "word": "das Versehen",
+    "word": "Versehen",
     "article": "das",
     "answer": "mistake / oversight"
   },
@@ -475,31 +475,31 @@
   },
   {
     "id": 80,
-    "word": "der Hammer",
+    "word": "Hammer",
     "article": "der",
     "answer": "hammer"
   },
   {
     "id": 81,
-    "word": "das Metall",
+    "word": "Metall",
     "article": "das",
     "answer": "metal"
   },
   {
     "id": 82,
-    "word": "die Bürste",
+    "word": "Bürste",
     "article": "die",
     "answer": "brush"
   },
   {
     "id": 83,
-    "word": "die Schere",
+    "word": "Schere",
     "article": "die",
     "answer": "scissors"
   },
   {
     "id": 84,
-    "word": "das Besteck",
+    "word": "Besteck",
     "article": "das",
     "answer": "cutlery"
   },
@@ -511,13 +511,13 @@
   },
   {
     "id": 86,
-    "word": "der Augenblick",
+    "word": "Augenblick",
     "article": "der",
     "answer": "moment / view"
   },
   {
     "id": 87,
-    "word": "der Faktor",
+    "word": "Faktor",
     "article": "der",
     "answer": "factor"
   },
@@ -571,37 +571,37 @@
   },
   {
     "id": 96,
-    "word": "die Gaststätte",
+    "word": "Gaststätte",
     "article": "die",
     "answer": "restaurant"
   },
   {
     "id": 97,
-    "word": "der Imbiss",
+    "word": "Imbiss",
     "article": "der",
     "answer": "snack"
   },
   {
     "id": 98,
-    "word": "die Verbindung",
+    "word": "Verbindung",
     "article": "die",
     "answer": "connection"
   },
   {
     "id": 99,
-    "word": "das Vergnügen",
+    "word": "Vergnügen",
     "article": "das",
     "answer": "pleasure"
   },
   {
     "id": 100,
-    "word": "die Partei",
+    "word": "Partei",
     "article": "die",
     "answer": "party"
   },
   {
     "id": 101,
-    "word": "die Öffentlichkeit",
+    "word": "Öffentlichkeit",
     "article": "die",
     "answer": "public"
   },
@@ -619,7 +619,7 @@
   },
   {
     "id": 104,
-    "word": "der Zweck",
+    "word": "Zweck",
     "article": "der",
     "answer": "purpose / goal"
   },
