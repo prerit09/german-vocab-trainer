@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "word": "Briefträger",
+    "article": "der",
+    "answer": "postman"
+  },
+  {
+    "id": 2,
+    "word": "Chemikerin",
+    "article": "die",
+    "answer": "chemist"
+  },
+  {
+    "id": 3,
+    "word": "Elektroingenieur",
+    "article": "der",
+    "answer": "electronics engineer"
+  },
+  {
+    "id": 4,
+    "word": "Mechatronikerin",
+    "article": "die",
+    "answer": "mechatronics engineer"
+  },
+  {
+    "id": 5,
+    "word": "Profi",
+    "article": "der",
+    "answer": "professional"
+  },
+  {
+    "id": 6,
+    "word": "Schreiner",
+    "article": "der",
+    "answer": "carpenter"
+  },
+  {
+    "id": 7,
+    "word": "Spezialistin",
+    "article": "die",
+    "answer": "specialist"
+  },
+  {
+    "id": 8,
+    "word": "Unternehmer",
+    "article": "der",
+    "answer": "entrepreneur"
+  },
+  {
+    "id": 9,
+    "word": "Rechtsanwältin",
+    "article": "die",
+    "answer": "lawyer"
+  },
+  {
+    "id": 10,
+    "word": "Richter",
+    "article": "der",
+    "answer": "judge"
+  },
+  {
+    "id": 11,
+    "word": "Gericht",
+    "article": "das",
+    "answer": "court"
+  },
+  {
+    "id": 12,
+    "word": "Gerichtsverhandlung",
+    "article": "die",
+    "answer": "court case"
+  },
+  {
+    "id": 13,
+    "word": "Urteil",
+    "article": "das",
+    "answer": "judgement"
+  },
+  {
+    "id": 14,
+    "word": "Verbrechen",
+    "article": "das",
+    "answer": "crime"
+  },
+  {
+    "id": 15,
+    "word": "fair",
+    "article": null,
+    "answer": "fair / decent"
+  },
+  {
+    "id": 16,
+    "word": "gerecht",
+    "article": null,
+    "answer": "fair / just"
+  },
+  {
+    "id": 17,
+    "word": "Reporterin",
+    "article": "die",
+    "answer": "reporter"
+  },
+  {
+    "id": 18,
+    "word": "Reportage",
+    "article": "die",
+    "answer": "coverage / report"
+  },
+  {
+    "id": 19,
+    "word": "Bereich",
+    "article": "der",
+    "answer": "field / area"
+  },
+  {
+    "id": 20,
+    "word": "Branche",
+    "article": "die",
+    "answer": "branch"
+  },
+  {
+    "id": 21,
+    "word": "Industrie",
+    "article": "die",
+    "answer": "industry"
+  },
+  {
+    "id": 22,
+    "word": "Landwirtschaft",
+    "article": "die",
+    "answer": "agriculture"
+  },
+  {
+    "id": 23,
+    "word": "austragen",
+    "article": null,
+    "answer": "to hold / to deliver"
+  },
+  {
+    "id": 24,
+    "word": "zustellen",
+    "article": null,
+    "answer": "to deliver sth."
+  },
+  {
+    "id": 25,
+    "word": "abschreiben",
+    "article": null,
+    "answer": "to copy sth."
+  },
+  {
+    "id": 26,
+    "word": "herstellen",
+    "article": null,
+    "answer": "to manufacture / to produce"
+  },
+  {
+    "id": 27,
+    "word": "Inserat",
+    "article": "das",
+    "answer": "advertisement"
+  },
+  {
+    "id": 28,
+    "word": "Interessent",
+    "article": "der",
+    "answer": "prospect / interested party"
+  },
+  {
+    "id": 29,
+    "word": "sich eignen (für + A.)",
+    "article": null,
+    "answer": "to be suitable"
+  },
+  {
+    "id": 30,
+    "word": "Stundenlohn",
+    "article": "der",
+    "answer": "hourly rate"
+  },
+  {
+    "id": 31,
+    "word": "Teilzeitjob",
+    "article": "der",
+    "answer": "part-time job"
+  },
+  {
+    "id": 32,
+    "word": "Voraussetzung",
+    "article": "die",
+    "answer": "pre-requirement / prerequisite"
+  },
+  {
+    "id": 33,
+    "word": "zukünftig",
+    "article": null,
+    "answer": "in future"
+  },
+  {
+    "id": 34,
+    "word": "Bewerberin",
+    "article": "die",
+    "answer": "applicant"
+  },
+  {
+    "id": 35,
+    "word": "Personalien",
+    "article": "die",
+    "answer": "personal data"
+  },
+  {
+    "id": 36,
+    "word": "Anhang",
+    "article": "der",
+    "answer": "attachment"
+  },
+  {
+    "id": 37,
+    "word": "Bewerbungsunterlagen",
+    "article": "die",
+    "answer": "application documents"
+  },
+  {
+    "id": 38,
+    "word": "Bescheinigung",
+    "article": "die",
+    "answer": "certificate"
+  },
+  {
+    "id": 39,
+    "word": "Lebenslauf",
+    "article": "der",
+    "answer": "CV / Resumé"
+  },
+  {
+    "id": 40,
+    "word": "ankommen (auf + D.)",
+    "article": null,
+    "answer": "to achieve a goal (contextual) / it depends on"
+  },
+  {
+    "id": 41,
+    "word": "aussagekräftig",
+    "article": null,
+    "answer": "meaningful / significant"
+  },
+  {
+    "id": 42,
+    "word": "sich beziehen (auf + A.)",
+    "article": null,
+    "answer": "to apply to sth. / to refer to"
+  },
+  {
+    "id": 43,
+    "word": "enthalten",
+    "article": null,
+    "answer": "contained / to contain"
+  },
+  {
+    "id": 44,
+    "word": "Fähigkeit",
+    "article": "die",
+    "answer": "ability"
+  },
+  {
+    "id": 45,
+    "word": "zählen (zu + D.)",
+    "article": null,
+    "answer": "to count"
+  },
+  {
+    "id": 46,
+    "word": "Auftritt",
+    "article": "der",
+    "answer": "performance / appearance"
+  },
+  {
+    "id": 47,
+    "word": "Geduld",
+    "article": "die",
+    "answer": "patience"
+  },
+  {
+    "id": 48,
+    "word": "Eindruck",
+    "article": "der",
+    "answer": "impression"
+  },
+  {
+    "id": 49,
+    "word": "sich erkundigen (nach + D.)",
+    "article": null,
+    "answer": "to enquire about sth."
+  },
+  {
+    "id": 50,
+    "word": "ruhig",
+    "article": null,
+    "answer": "calm"
+  },
+  {
+    "id": 51,
+    "word": "überzeugen (von + D.)",
+    "article": null,
+    "answer": "to convince"
+  },
+  {
+    "id": 52,
+    "word": "Arbeitnehmer",
+    "article": "der",
+    "answer": "employee"
+  },
+  {
+    "id": 53,
+    "word": "Einkommen",
+    "article": "das",
+    "answer": "income"
+  },
+  {
+    "id": 54,
+    "word": "Anlage",
+    "article": "die",
+    "answer": "investment / attachment"
+  }
+]

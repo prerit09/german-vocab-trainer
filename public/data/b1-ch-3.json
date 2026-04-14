@@ -1,0 +1,656 @@
+[
+  {
+    "id": 1,
+    "word": "Gewohnheit",
+    "article": "die",
+    "answer": "habit"
+  },
+  {
+    "id": 2,
+    "word": "gewöhnt",
+    "article": "",
+    "answer": "habitual"
+  },
+  {
+    "id": 3,
+    "word": "raus (raus aus dem gewohnten Alltag)",
+    "article": "",
+    "answer": "out of common / usual routine"
+  },
+  {
+    "id": 4,
+    "word": "üblich",
+    "article": "",
+    "answer": "usual"
+  },
+  {
+    "id": 5,
+    "word": "historisch",
+    "article": "",
+    "answer": "historical"
+  },
+  {
+    "id": 6,
+    "word": "Krise",
+    "article": "die",
+    "answer": "crisis"
+  },
+  {
+    "id": 7,
+    "word": "Trennung",
+    "article": "die",
+    "answer": "separation"
+  },
+  {
+    "id": 8,
+    "word": "Rückkehr (Sg.)",
+    "article": "die",
+    "answer": "return (journey back)"
+  },
+  {
+    "id": 9,
+    "word": "verschwinden (er verschwindet, verschwand, ist verschwunden)",
+    "article": "",
+    "answer": "to disappear"
+  },
+  {
+    "id": 10,
+    "word": "verursachen",
+    "article": "",
+    "answer": "to cause"
+  },
+  {
+    "id": 11,
+    "word": "führen (zu + D.)",
+    "article": "",
+    "answer": "to lead to"
+  },
+  {
+    "id": 12,
+    "word": "Prozess",
+    "article": "der",
+    "answer": "process"
+  },
+  {
+    "id": 13,
+    "word": "Gegensatz (im Gegensatz zu früher)",
+    "article": "der",
+    "answer": "contrast"
+  },
+  {
+    "id": 14,
+    "word": "minimal ↔ radikal",
+    "article": "",
+    "answer": "minimal vs drastically"
+  },
+   {
+    "id": 15,
+    "word": "während",
+    "article": "",
+    "answer": "during / while"
+  },
+  {
+    "id": 16,
+    "word": "mittlerweile",
+    "article": "",
+    "answer": "meanwhile"
+  },
+  {
+    "id": 17,
+    "word": "schließlich",
+    "article": "",
+    "answer": "finally / at the end"
+  },
+  {
+    "id": 18,
+    "word": "seitdem",
+    "article": "",
+    "answer": "since"
+  },
+  {
+    "id": 19,
+    "word": "von ... auf (von einem Tag auf den anderen)",
+    "article": "",
+    "answer": "from ... to (from one day to the next)"
+  },
+  {
+    "id": 20,
+    "word": "jahrelang",
+    "article": "",
+    "answer": "for years / yearlong"
+  },
+  {
+    "id": 21,
+    "word": "Arbeiterin",
+    "article": "die",
+    "answer": "female worker"
+  },
+  {
+    "id": 22,
+    "word": "Lehrling",
+    "article": "der",
+    "answer": "trainee / apprentice"
+  },
+  {
+    "id": 23,
+    "word": "Personal",
+    "article": "das",
+    "answer": "staff / personnel"
+  },
+  {
+    "id": 24,
+    "word": "Handarbeit",
+    "article": "die",
+    "answer": "handwork"
+  },
+  {
+    "id": 25,
+    "word": "Bedingung",
+    "article": "die",
+    "answer": "condition"
+  },
+  {
+    "id": 26,
+    "word": "Konkurrenz",
+    "article": "die",
+    "answer": "competition"
+  },
+  {
+    "id": 27,
+    "word": "Schulbildung",
+    "article": "die",
+    "answer": "school education"
+  },
+  {
+    "id": 28,
+    "word": "Disziplin",
+    "article": "die",
+    "answer": "discipline"
+  },
+  {
+    "id": 29,
+    "word": "tolerant",
+    "article": null,
+    "answer": "tolerant"
+  },
+  {
+    "id": 30,
+    "word": "Strafe",
+    "article": "die",
+    "answer": "punishment / penalty"
+  },
+  {
+    "id": 31,
+    "word": "Sportunfall",
+    "article": null,
+    "answer": "sports accident"
+  },
+  {
+    "id": 32,
+    "word": "Fitness",
+    "article": "die",
+    "answer": "fitness"
+  },
+  {
+    "id": 33,
+    "word": "Form",
+    "article": "die",
+    "answer": "form / shape"
+  },
+  {
+    "id": 34,
+    "word": "Trend",
+    "article": "der",
+    "answer": "trend"
+  },
+  {
+    "id": 35,
+    "word": "Weltmeister",
+    "article": "der",
+    "answer": "world champion"
+  },
+  {
+    "id": 36,
+    "word": "-fach",
+    "article": null,
+    "answer": "multiple (times) / -fold"
+  },
+  {
+    "id": 37,
+    "word": "sich ereignen",
+    "article": null,
+    "answer": "to occur / to happen"
+  },
+  {
+    "id": 38,
+    "word": "stürzen",
+    "article": null,
+    "answer": "to fall over / to crash"
+  },
+  {
+    "id": 39,
+    "word": "Wirbelsäule",
+    "article": "die",
+    "answer": "backbone / spine"
+  },
+  {
+    "id": 40,
+    "word": "abwärts",
+    "article": null,
+    "answer": "downwards"
+  },
+  {
+    "id": 41,
+    "word": "aufgeben",
+    "article": null,
+    "answer": "to give up"
+  },
+  {
+    "id": 42,
+    "word": "Mut",
+    "article": "der",
+    "answer": "courage"
+  },
+  {
+    "id": 43,
+    "word": "sich beruflich engagieren",
+    "article": null,
+    "answer": "to be professionally involved"
+  },
+  {
+    "id": 44,
+    "word": "Herausforderung",
+    "article": "die",
+    "answer": "challenge"
+  },
+  {
+    "id": 45,
+    "word": "sich einsetzen (für + A.)",
+    "article": null,
+    "answer": "to support sth. / to advocate for"
+  },
+  {
+    "id": 46,
+    "word": "politisch",
+    "article": null,
+    "answer": "political"
+  },
+  {
+    "id": 47,
+    "word": "Wahl",
+    "article": "die",
+    "answer": "choice / option / election"
+  },
+  {
+    "id": 48,
+    "word": "kämpfen (für + A.)",
+    "article": null,
+    "answer": "to fight for"
+  },
+  {
+    "id": 49,
+    "word": "Heldin",
+    "article": "die",
+    "answer": "heroine"
+  },
+  {
+    "id": 50,
+    "word": "ehren",
+    "article": null,
+    "answer": "to honour"
+  },
+  {
+    "id": 51,
+    "word": "Essgewohnheiten",
+    "article": null,
+    "answer": "eating habits"
+  },
+  {
+    "id": 52,
+    "word": "Ernährung",
+    "article": "die",
+    "answer": "diet / nutrition"
+  },
+  {
+    "id": 53,
+    "word": "sich ernähren",
+    "article": null,
+    "answer": "to nourish / to feed oneself"
+  },
+  {
+    "id": 54,
+    "word": "Diät",
+    "article": "die",
+    "answer": "diet"
+  },
+  {
+    "id": 55,
+    "word": "halten (Diät halten)",
+    "article": null,
+    "answer": "to keep / to stick to (to go on a diet)"
+  },
+  {
+    "id": 56,
+    "word": "Nahrungsmittel",
+    "article": "das",
+    "answer": "nourishment / food"
+  },
+  {
+    "id": 57,
+    "word": "Speise",
+    "article": "die",
+    "answer": "dish"
+  },
+  {
+    "id": 58,
+    "word": "Frucht",
+    "article": "die",
+    "answer": "fruit"
+  },
+  {
+    "id": 59,
+    "word": "Karotte",
+    "article": "die",
+    "answer": "carrot"
+  },
+  {
+    "id": 60,
+    "word": "Vitamin",
+    "article": "das",
+    "answer": "vitamin"
+  },
+  {
+    "id": 61,
+    "word": "Nachtisch",
+    "article": "der",
+    "answer": "dessert"
+  },
+  {
+    "id": 62,
+    "word": "biologisch",
+    "article": null,
+    "answer": "biological"
+  },
+  {
+    "id": 63,
+    "word": "frisch",
+    "article": null,
+    "answer": "fresh"
+  },
+  {
+    "id": 64,
+    "word": "vegetarisch",
+    "article": null,
+    "answer": "vegetarian"
+  },
+  {
+    "id": 65,
+    "word": "Reise-Dokumente",
+    "article": null,
+    "answer": "travel documents"
+  },
+  {
+    "id": 66,
+    "word": "Reisepass",
+    "article": "der",
+    "answer": "passport"
+  },
+  {
+    "id": 67,
+    "word": "Visum",
+    "article": "das",
+    "answer": "visa"
+  },
+  {
+    "id": 68,
+    "word": "überqueren",
+    "article": null,
+    "answer": "to cross"
+  },
+  {
+    "id": 69,
+    "word": "Botschaft",
+    "article": "die",
+    "answer": "message / embassy"
+  },
+  {
+    "id": 70,
+    "word": "Konsulat",
+    "article": "das",
+    "answer": "consulate"
+  },
+  {
+    "id": 71,
+    "word": "Zoll",
+    "article": "der",
+    "answer": "custom / duty"
+  },
+  {
+    "id": 72,
+    "word": "Beziehungen zwischen Menschen",
+    "article": null,
+    "answer": "relationships between people"
+  },
+  {
+    "id": 73,
+    "word": "Beziehung",
+    "article": "die",
+    "answer": "relationship"
+  },
+  {
+    "id": 74,
+    "word": "Verhältnis",
+    "article": "das",
+    "answer": "relationship / ratio"
+  },
+  {
+    "id": 75,
+    "word": "sich verlieben (in + A.)",
+    "article": null,
+    "answer": "to fall in love with"
+  },
+  {
+    "id": 76,
+    "word": "Schwiegereltern",
+    "article": "die",
+    "answer": "parents-in-law"
+  },
+  {
+    "id": 77,
+    "word": "Benehmen",
+    "article": "das",
+    "answer": "behaviour"
+  },
+  {
+    "id": 78,
+    "word": "sich verhalten",
+    "article": null,
+    "answer": "to behave"
+  },
+  {
+    "id": 79,
+    "word": "sich begrüßen",
+    "article": null,
+    "answer": "to greet"
+  },
+  {
+    "id": 80,
+    "word": "sich umarmen",
+    "article": null,
+    "answer": "to hug"
+  },
+  {
+    "id": 81,
+    "word": "siezen ↔ duzen",
+    "article": null,
+    "answer": "Sie form ↔ du form"
+  },
+  {
+    "id": 82,
+    "word": "unter",
+    "article": null,
+    "answer": "un/ among"
+  },
+  {
+    "id": 83,
+    "word": "Kuss",
+    "article": "der",
+    "answer": "kiss"
+  },
+  {
+    "id": 84,
+    "word": "umgekehrt",
+    "article": null,
+    "answer": "reversed / vice versa"
+  },
+  {
+    "id": 85,
+    "word": "ausschließlich",
+    "article": null,
+    "answer": "exclusively"
+  },
+  {
+    "id": 86,
+    "word": "wesentlich",
+    "article": null,
+    "answer": "essential / significantly"
+  },
+  {
+    "id": 87,
+    "word": "anwesend",
+    "article": null,
+    "answer": "present"
+  },
+  {
+    "id": 88,
+    "word": "nachher",
+    "article": null,
+    "answer": "afterwards"
+  },
+  {
+    "id": 89,
+    "word": "Fach",
+    "article": "das",
+    "answer": "subject / compartment"
+  },
+  {
+    "id": 90,
+    "word": "Camping",
+    "article": "das",
+    "answer": "camping"
+  },
+  {
+    "id": 91,
+    "word": "Reihe",
+    "article": "die",
+    "answer": "row / turn"
+  },
+  {
+    "id": 92,
+    "word": "Lift",
+    "article": "der",
+    "answer": "lift / elevator"
+  },
+  {
+    "id": 93,
+    "word": "Struktur",
+    "article": "die",
+    "answer": "structure"
+  },
+  {
+    "id": 94,
+    "word": "zufällig",
+    "article": null,
+    "answer": "coincidentally / by chance"
+  },
+  {
+    "id": 95,
+    "word": "Sonnabend",
+    "article": "der",
+    "answer": "Saturday"
+  },
+  {
+    "id": 96,
+    "word": "gucken",
+    "article": null,
+    "answer": "to watch / to look"
+  },
+  {
+    "id": 97,
+    "word": "aufwachen",
+    "article": null,
+    "answer": "to wake up"
+  },
+  {
+    "id": 98,
+    "word": "erstellen",
+    "article": null,
+    "answer": "to design / to make / to create"
+  },
+  {
+    "id": 99,
+    "word": "veröffentlichen",
+    "article": null,
+    "answer": "to publish"
+  },
+  {
+    "id": 100,
+    "word": "aussuchen",
+    "article": null,
+    "answer": "to select / to choose"
+  },
+  {
+    "id": 101,
+    "word": "aufhalten",
+    "article": null,
+    "answer": "to stop sb./sth. / to hold open"
+  },
+  {
+    "id": 102,
+    "word": "operieren",
+    "article": null,
+    "answer": "to operate"
+  },
+  {
+    "id": 103,
+    "word": "klagen",
+    "article": null,
+    "answer": "to complain / to sue"
+  },
+  {
+    "id": 104,
+    "word": "relativ",
+    "article": null,
+    "answer": "relatively"
+  },
+  {
+    "id": 105,
+    "word": "beziehungsweise (bzw.)",
+    "article": null,
+    "answer": "respectively / or"
+  },
+  {
+    "id": 106,
+    "word": "schwach",
+    "article": null,
+    "answer": "weak"
+  },
+  {
+    "id": 107,
+    "word": "theoretisch",
+    "article": null,
+    "answer": "theoretical"
+  },
+  {
+    "id": 108,
+    "word": "innerhalb ↔ außerhalb",
+    "article": null,
+    "answer": "within ↔ outside"
+  },
+  {
+    "id": 109,
+    "word": "Weshalb?",
+    "article": null,
+    "answer": "Why? / For what?"
+  }
+]

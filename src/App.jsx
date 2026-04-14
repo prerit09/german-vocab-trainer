@@ -36,6 +36,8 @@ export default function App() {
       case "b1-ch-2": return import.meta.env.BASE_URL + "data/b1-ch-2.json";
       case "b1-ch-2-adjectiv": return import.meta.env.BASE_URL + "data/b1-ch-2-adjectiv.json";
       case "b1-ch-2-fixed-preposition": return import.meta.env.BASE_URL + "data/b1-ch-2-fixed-preposition.json";
+      case "b1-ch-3": return import.meta.env.BASE_URL + "data/b1-ch-3.json";
+      case "b1-ch-4": return import.meta.env.BASE_URL + "data/b1-ch-4.json";
       default: throw new Error("Unknown level: " + level);
     }
   }
@@ -197,6 +199,8 @@ export default function App() {
               <option value="b1-ch-2">B1 - Einheit - 2</option>
               <option value="b1-ch-2-adjectiv">B1 - Einheit - 2 - Adjectiv</option>
               <option value="b1-ch-2-fixed-preposition">B1 - Einheit - 2 - Feste Präposition</option>
+              <option value="b1-ch-3">B1 - Einheit - 3</option>
+              <option value="b1-ch-4">B1 - Einheit - 4</option>
               {/* <option value="a1">A1</option>
               <option value="a2">A2</option>
               <option value="b1">B1</option> */}
