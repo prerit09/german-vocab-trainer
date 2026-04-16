@@ -40,10 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
 .level-dropdown {
-  width: 220px;
-  padding: 8px 40px 8px 14px; /* extra right padding for arrow */
+  width: 100%;
+  max-width: 100%;
+  padding: 10px;
   font-size: 16px;
+  white-space: normal;   /* allow wrapping */
   line-height: 1.2;
 
   border-radius: 10px;
